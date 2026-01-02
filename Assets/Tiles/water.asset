@@ -12,9 +12,30 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
   m_Name: water
   m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
-  m_AnimatedSprites: []
-  m_MinSpeed: 1
-  m_MaxSpeed: 1
+  m_AnimatedSprites:
+  - {fileID: -7537930589279966563, guid: 886414fe4e4d87549bdb440b42c079ec, type: 3}
+  - {fileID: -1367592733459593845, guid: 3b26ced5c761c6a48891a1f7ec4a52d9, type: 3}
+  - {fileID: 1174896960117493794, guid: 77e64f08b3843484aa7d1dedb0a18eae, type: 3}
+  - {fileID: -8291921197942364156, guid: b3de0ccaadd44ff46bfc2a0c26241de2, type: 3}
+  - {fileID: -2210087235155084702, guid: c9e685499d403a4478b0f99005b4814d, type: 3}
+  - {fileID: 1451368453695217803, guid: 394487a2ca7277f438422a16434eda0e, type: 3}
+  - {fileID: 5099722064633839311, guid: 1f839103dc7338d418c312d8aaaa8690, type: 3}
+  - {fileID: 1792303260410031651, guid: 5d2be47ca73b175429826c85b02dc23a, type: 3}
+  - {fileID: 3795267003899553420, guid: 15a70bf084066f541bd38d909c39ec17, type: 3}
+  - {fileID: -7883759716320938859, guid: cfd1dda808fa9024594ab93e884c3102, type: 3}
+  - {fileID: -7966164306919941279, guid: 4f5efe84e43087d4896569f6fae62807, type: 3}
+  - {fileID: 8641470227939865050, guid: 7aff4753ab56d0e45a881da2854d56ab, type: 3}
+  - {fileID: -3089906813152118775, guid: d1808f56b8b287441b798b56874757c8, type: 3}
+  - {fileID: 7677455984373204159, guid: db0259836c00bbd4a8e8e84e0699f792, type: 3}
+  - {fileID: -6285841265860439689, guid: f64819f6047f30846a771ceea6a7973d, type: 3}
+  - {fileID: -3814545002476536372, guid: 7fce702a2288d6b41be77e2410391a0a, type: 3}
+  - {fileID: -6742413846617300179, guid: d3579622ba482454383da90b2ca270a0, type: 3}
+  - {fileID: 5478302172205613, guid: d672efb87c121e44d9e5a3c5f5afe72d, type: 3}
+  - {fileID: -7132669163416460373, guid: 86eff8cf08a8bee48b4329633be5dd06, type: 3}
+  - {fileID: 6370453195999478338, guid: 903d6f56692afc449889fc2cfc04d0b2, type: 3}
+  - {fileID: -7173205173674115939, guid: 828ae5db1e441d5479c34857f8cda90e, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
   m_AnimationStartTime: 0
   m_AnimationStartFrame: 0
   m_TileColliderType: 0
