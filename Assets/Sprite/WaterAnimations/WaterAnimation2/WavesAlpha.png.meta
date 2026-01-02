@@ -1,0 +1,3341 @@
+fileFormatVersion: 2
+guid: 8e125cf44fb3ecc4e816b65373624d3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1475450055845682281
+    second: WavesAlpha_0
+  - first:
+      213: -751978797781178529
+    second: WavesAlpha_1
+  - first:
+      213: -5341399384699374707
+    second: WavesAlpha_2
+  - first:
+      213: -8929792624500185793
+    second: WavesAlpha_3
+  - first:
+      213: -374597904463672100
+    second: WavesAlpha_4
+  - first:
+      213: 1233772849185165015
+    second: WavesAlpha_5
+  - first:
+      213: -5508478056293963513
+    second: WavesAlpha_6
+  - first:
+      213: 433763085847992192
+    second: WavesAlpha_7
+  - first:
+      213: -7485668139561287441
+    second: WavesAlpha_8
+  - first:
+      213: -4631275434895251401
+    second: WavesAlpha_9
+  - first:
+      213: -6079174871223752911
+    second: WavesAlpha_10
+  - first:
+      213: -3259729780490906997
+    second: WavesAlpha_11
+  - first:
+      213: -7927960797695866637
+    second: WavesAlpha_12
+  - first:
+      213: -1588132100086564272
+    second: WavesAlpha_13
+  - first:
+      213: 2357322076418205352
+    second: WavesAlpha_14
+  - first:
+      213: -2247970065600497392
+    second: WavesAlpha_15
+  - first:
+      213: -1548561595968260561
+    second: WavesAlpha_16
+  - first:
+      213: 5524507320195527356
+    second: WavesAlpha_17
+  - first:
+      213: -6119080215477236932
+    second: WavesAlpha_18
+  - first:
+      213: 4020425705285904027
+    second: WavesAlpha_19
+  - first:
+      213: 6860448483571753374
+    second: WavesAlpha_20
+  - first:
+      213: 8020755688398791776
+    second: WavesAlpha_21
+  - first:
+      213: -5293579557122131790
+    second: WavesAlpha_22
+  - first:
+      213: 814862061177054223
+    second: WavesAlpha_23
+  - first:
+      213: 1096994709644243781
+    second: WavesAlpha_24
+  - first:
+      213: 1894580541487613725
+    second: WavesAlpha_25
+  - first:
+      213: -5506853069172994368
+    second: WavesAlpha_26
+  - first:
+      213: -3641455665502330346
+    second: WavesAlpha_27
+  - first:
+      213: 3773726670301652652
+    second: WavesAlpha_28
+  - first:
+      213: 118242060241446029
+    second: WavesAlpha_29
+  - first:
+      213: 3096255096274486094
+    second: WavesAlpha_30
+  - first:
+      213: -5754700133140705578
+    second: WavesAlpha_31
+  - first:
+      213: 205925026615572585
+    second: WavesAlpha_32
+  - first:
+      213: -1321660929171485763
+    second: WavesAlpha_33
+  - first:
+      213: 412541471370235629
+    second: WavesAlpha_34
+  - first:
+      213: 3992899209099798660
+    second: WavesAlpha_35
+  - first:
+      213: 4137986114731269502
+    second: WavesAlpha_36
+  - first:
+      213: -2160010154501408188
+    second: WavesAlpha_37
+  - first:
+      213: 462642312546936053
+    second: WavesAlpha_38
+  - first:
+      213: 8065775258382181230
+    second: WavesAlpha_39
+  - first:
+      213: 6668070788350977329
+    second: WavesAlpha_40
+  - first:
+      213: 2095878234140065704
+    second: WavesAlpha_41
+  - first:
+      213: 855877376910493195
+    second: WavesAlpha_42
+  - first:
+      213: -7739842459538817772
+    second: WavesAlpha_43
+  - first:
+      213: 4992829454558121218
+    second: WavesAlpha_44
+  - first:
+      213: 2928848556128299617
+    second: WavesAlpha_45
+  - first:
+      213: 6856481476646507226
+    second: WavesAlpha_46
+  - first:
+      213: -1574832932060894498
+    second: WavesAlpha_47
+  - first:
+      213: 123735836688151689
+    second: WavesAlpha_48
+  - first:
+      213: -1719418740597082214
+    second: WavesAlpha_49
+  - first:
+      213: 3406399154988978865
+    second: WavesAlpha_50
+  - first:
+      213: -627304803659432961
+    second: WavesAlpha_51
+  - first:
+      213: 420220350995300990
+    second: WavesAlpha_52
+  - first:
+      213: -1168935989073108407
+    second: WavesAlpha_53
+  - first:
+      213: 5419438100798530723
+    second: WavesAlpha_54
+  - first:
+      213: -6768070042244515080
+    second: WavesAlpha_55
+  - first:
+      213: 2053756139682848921
+    second: WavesAlpha_56
+  - first:
+      213: -767689839567747880
+    second: WavesAlpha_57
+  - first:
+      213: -3238617761551621462
+    second: WavesAlpha_58
+  - first:
+      213: 6344303245787925196
+    second: WavesAlpha_59
+  - first:
+      213: -4067359917933080524
+    second: WavesAlpha_60
+  - first:
+      213: 3397172788298644465
+    second: WavesAlpha_61
+  - first:
+      213: -4054036875027815639
+    second: WavesAlpha_62
+  - first:
+      213: -4270090028587318584
+    second: WavesAlpha_63
+  - first:
+      213: 8248775329357953462
+    second: WavesAlpha_64
+  - first:
+      213: -4244342050580573016
+    second: WavesAlpha_65
+  - first:
+      213: 1479917236418249030
+    second: WavesAlpha_66
+  - first:
+      213: 2704031585344885924
+    second: WavesAlpha_67
+  - first:
+      213: 360235148296004686
+    second: WavesAlpha_68
+  - first:
+      213: -6074488100870074045
+    second: WavesAlpha_69
+  - first:
+      213: -2736101777168271708
+    second: WavesAlpha_70
+  - first:
+      213: 3134899402830449901
+    second: WavesAlpha_71
+  - first:
+      213: -614881271437587082
+    second: WavesAlpha_72
+  - first:
+      213: 5637733148269424459
+    second: WavesAlpha_73
+  - first:
+      213: -3687496786246156472
+    second: WavesAlpha_74
+  - first:
+      213: -9013772866274476605
+    second: WavesAlpha_75
+  - first:
+      213: 4705472981323474088
+    second: WavesAlpha_76
+  - first:
+      213: -4351745862076576501
+    second: WavesAlpha_77
+  - first:
+      213: -8454247732346882996
+    second: WavesAlpha_78
+  - first:
+      213: 2211700650168894670
+    second: WavesAlpha_79
+  - first:
+      213: -7317319764964318744
+    second: WavesAlpha_80
+  - first:
+      213: 5816231506070579284
+    second: WavesAlpha_81
+  - first:
+      213: 7021505408645646662
+    second: WavesAlpha_82
+  - first:
+      213: -1113217643481034283
+    second: WavesAlpha_83
+  - first:
+      213: 2718717725100979843
+    second: WavesAlpha_84
+  - first:
+      213: -2123071938114061487
+    second: WavesAlpha_85
+  - first:
+      213: 3868562120999902479
+    second: WavesAlpha_86
+  - first:
+      213: 524148938973352332
+    second: WavesAlpha_87
+  - first:
+      213: -3459632279621504677
+    second: WavesAlpha_88
+  - first:
+      213: 24874218906904348
+    second: WavesAlpha_89
+  - first:
+      213: -3794681253729112212
+    second: WavesAlpha_90
+  - first:
+      213: 1998416859404795916
+    second: WavesAlpha_91
+  - first:
+      213: 1084809250895320603
+    second: WavesAlpha_92
+  - first:
+      213: 3685988979663519906
+    second: WavesAlpha_93
+  - first:
+      213: -7498841851591961446
+    second: WavesAlpha_94
+  - first:
+      213: -199813415261124867
+    second: WavesAlpha_95
+  - first:
+      213: 8911162707328960769
+    second: WavesAlpha_96
+  - first:
+      213: 3798903947488847547
+    second: WavesAlpha_97
+  - first:
+      213: -5473389179965571200
+    second: WavesAlpha_98
+  - first:
+      213: 1486514573402809386
+    second: WavesAlpha_99
+  - first:
+      213: 8461982385742612524
+    second: WavesAlpha_100
+  - first:
+      213: 829230037078688306
+    second: WavesAlpha_101
+  - first:
+      213: 3212891784448694945
+    second: WavesAlpha_102
+  - first:
+      213: -5168432734182350222
+    second: WavesAlpha_103
+  - first:
+      213: 7654274215633766548
+    second: WavesAlpha_104
+  - first:
+      213: 5958084886660289461
+    second: WavesAlpha_105
+  - first:
+      213: 1171377518288739635
+    second: WavesAlpha_106
+  - first:
+      213: -3701630467688838000
+    second: WavesAlpha_107
+  - first:
+      213: 8581186697418694505
+    second: WavesAlpha_108
+  - first:
+      213: -3315251346518054300
+    second: WavesAlpha_109
+  - first:
+      213: -6679212505313845065
+    second: WavesAlpha_110
+  - first:
+      213: 8018688630982959493
+    second: WavesAlpha_111
+  - first:
+      213: 3191656401934480494
+    second: WavesAlpha_112
+  - first:
+      213: -3297729231458870074
+    second: WavesAlpha_113
+  - first:
+      213: -2992696723644833679
+    second: WavesAlpha_114
+  - first:
+      213: 7964795221103256384
+    second: WavesAlpha_115
+  - first:
+      213: -4629476797435722913
+    second: WavesAlpha_116
+  - first:
+      213: -6073762145975772976
+    second: WavesAlpha_117
+  - first:
+      213: 7957125560054435968
+    second: WavesAlpha_118
+  - first:
+      213: 6529219007418623879
+    second: WavesAlpha_119
+  - first:
+      213: -2478524726790174367
+    second: WavesAlpha_120
+  - first:
+      213: -9086326868240511892
+    second: WavesAlpha_121
+  - first:
+      213: 7479148441196727249
+    second: WavesAlpha_122
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WavesAlpha_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 319
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793ec71ddf5268be0800000000000000
+      internalID: -1475450055845682281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 6
+        width: 317
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57a0af744f6095f0800000000000000
+      internalID: -751978797781178529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 313
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83f08f3f898fd5b0800000000000000
+      internalID: -5341399384699374707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_3
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 313
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3563ca8be0031480800000000000000
+      internalID: -8929792624500185793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_4
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 313
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc46dac0392dcaf0800000000000000
+      internalID: -374597904463672100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 313
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de04399edd3f1110800000000000000
+      internalID: 1233772849185165015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_6
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 301
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70960999464fd83b0800000000000000
+      internalID: -5508478056293963513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_7
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 307
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08795a87a39050600800000000000000
+      internalID: 433763085847992192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_8
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 311
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe08df2ec709d1890800000000000000
+      internalID: -7485668139561287441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_9
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 307
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738631e87876abfb0800000000000000
+      internalID: -4631275434895251401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_10
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 311
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1372a39d9ae62aba0800000000000000
+      internalID: -6079174871223752911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_11
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 307
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82d312190d13c2d0800000000000000
+      internalID: -3259729780490906997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_12
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 311
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f88d1c98a93af190800000000000000
+      internalID: -7927960797695866637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_13
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 307
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05af1fde442d5f9e0800000000000000
+      internalID: -1588132100086564272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_14
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 311
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6e71a50f3e6b020800000000000000
+      internalID: 2357322076418205352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_15
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 307
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019bb26b22b9dc0e0800000000000000
+      internalID: -2247970065600497392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_16
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 311
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26ff7fde67628ae0800000000000000
+      internalID: -1548561595968260561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_17
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 305
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2bc4b332efaac40800000000000000
+      internalID: 5524507320195527356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_18
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 301
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bcb5cd6f8a41ba0800000000000000
+      internalID: -6119080215477236932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_19
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 305
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b966a69b0eb6bc730800000000000000
+      internalID: 4020425705285904027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_20
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 310
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91692f2c85353f50800000000000000
+      internalID: 6860448483571753374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_21
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 307
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06424358dc27f4f60800000000000000
+      internalID: 8020755688398791776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_22
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 307
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8377b707d6986b0800000000000000
+      internalID: -5293579557122131790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_23
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 307
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04a6613ab8fe4b00800000000000000
+      internalID: 814862061177054223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_24
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 307
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543f3d450ee493f00800000000000000
+      internalID: 1096994709644243781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_25
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 307
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d178cbde6f6ea4a10800000000000000
+      internalID: 1894580541487613725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_26
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 307
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce8ca56f4ab393b0800000000000000
+      internalID: -5506853069172994368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_27
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 307
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61266609d53f67dc0800000000000000
+      internalID: -3641455665502330346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_28
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 306
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca66fbe9968fe5430800000000000000
+      internalID: 3773726670301652652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_29
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 305
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84a33ef68414a100800000000000000
+      internalID: 118242060241446029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_30
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1
+        width: 323
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e430f6bfa9b18fa20800000000000000
+      internalID: 3096255096274486094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_31
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 306
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de4147f7b23320b0800000000000000
+      internalID: -5754700133140705578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_32
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1
+        width: 303
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968b8cd78b79bd200800000000000000
+      internalID: 205925026615572585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_33
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 308
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb883b236488ade0800000000000000
+      internalID: -1321660929171485763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_34
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 309
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deec3205844a9b500800000000000000
+      internalID: 412541471370235629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_35
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1
+        width: 317
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488e456eca0a96730800000000000000
+      internalID: 3992899209099798660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_36
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 308
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d5e0682741d6930800000000000000
+      internalID: 4137986114731269502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_37
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 309
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44af4bd653a1602e0800000000000000
+      internalID: -2160010154501408188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_38
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 3
+        width: 317
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4ec696bb2ab6600800000000000000
+      internalID: 462642312546936053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_39
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 1
+        width: 316
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63210afcd36fef60800000000000000
+      internalID: 8065775258382181230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_40
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135a1d49d0fb98c50800000000000000
+      internalID: 6668070788350977329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_41
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1
+        width: 316
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af3466462e061d10800000000000000
+      internalID: 2095878234140065704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_42
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1
+        width: 314
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b060b0e80ffa0eb00800000000000000
+      internalID: 855877376910493195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_43
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 295
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41df3bd5a4e869490800000000000000
+      internalID: -7739842459538817772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_44
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 306
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d4b0f8fe71a4540800000000000000
+      internalID: 4992829454558121218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_45
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 224
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a61fc7e3c55a820800000000000000
+      internalID: 2928848556128299617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_46
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 224
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad29f88639d172f50800000000000000
+      internalID: 6856481476646507226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_47
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 241
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda6ce7cac1152ae0800000000000000
+      internalID: -1574832932060894498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_48
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 231
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98478cf761997b100800000000000000
+      internalID: 123735836688151689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_49
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 224
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97bf8ae3c56328e0800000000000000
+      internalID: -1719418740597082214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_50
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 233
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b21f4ccbf5f54f20800000000000000
+      internalID: 3406399154988978865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_51
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 241
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbbbfbca9d5b47f0800000000000000
+      internalID: -627304803659432961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_52
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 228
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72077cce2ce4d500800000000000000
+      internalID: 420220350995300990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_53
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 203
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942a02649ea17cfe0800000000000000
+      internalID: -1168935989073108407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_54
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 220
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a460504d36b53b40800000000000000
+      internalID: 5419438100798530723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_55
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 228
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa7d05c72cf212a0800000000000000
+      internalID: -6768070042244515080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_56
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 94
+        width: 9
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990e219e358608c10800000000000000
+      internalID: 2053756139682848921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_57
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 73
+        width: 31
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d443e6882e9855f0800000000000000
+      internalID: -767689839567747880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_58
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 225
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2e1770e4e1e03d0800000000000000
+      internalID: -3238617761551621462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_59
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 205
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca0c80403e7b0850800000000000000
+      internalID: 6344303245787925196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_60
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 225
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430dfe554b5dd87c0800000000000000
+      internalID: -4067359917933080524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_61
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 192
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbf927e6ae252f20800000000000000
+      internalID: 3397172788298644465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_62
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 160
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923e1adf0fa2db7c0800000000000000
+      internalID: -4054036875027815639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_63
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 192
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c28d1f2eb79db4c0800000000000000
+      internalID: -4270090028587318584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_64
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 160
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9f26a4579897270800000000000000
+      internalID: 8248775329357953462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_65
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 192
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a454e974611915c0800000000000000
+      internalID: -4244342050580573016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_66
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 171
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64100b5b2e8b98410800000000000000
+      internalID: 1479917236418249030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_67
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 128
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a41be97666a68520800000000000000
+      internalID: 2704031585344885924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_68
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 128
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e442bc175ffcff400800000000000000
+      internalID: 360235148296004686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_69
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 160
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3415d4b914513bba0800000000000000
+      internalID: -6074488100870074045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_70
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 139
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6f19e1ee9670ad0800000000000000
+      internalID: -2736101777168271708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_71
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 96
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec0b40c566618b20800000000000000
+      internalID: 3134899402830449901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_72
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 96
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d0ceccdb08777f0800000000000000
+      internalID: -614881271437587082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_73
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 128
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f2b09ad604d3e40800000000000000
+      internalID: 5637733148269424459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_74
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 107
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f3769c53163dcc0800000000000000
+      internalID: -3687496786246156472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_75
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 78
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdb7abc555a8e280800000000000000
+      internalID: -9013772866274476605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_76
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 78
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4ebffeeb23d4140800000000000000
+      internalID: 4705472981323474088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_77
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 86
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d462ae13e7b93c0800000000000000
+      internalID: -4351745862076576501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_78
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 96
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44ff4eda7a7caa80800000000000000
+      internalID: -8454247732346882996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_79
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 93
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec441d2f50a81be10800000000000000
+      internalID: 2211700650168894670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_80
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 68
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e16b5d4178a37a90800000000000000
+      internalID: -7317319764964318744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_81
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 70
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458a5c23db767b050800000000000000
+      internalID: 5816231506070579284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_82
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 74
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649cec6b7f5617160800000000000000
+      internalID: 7021505408645646662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_83
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d19d9a837e0d80f0800000000000000
+      internalID: -1113217643481034283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_84
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386b339dd53dab520800000000000000
+      internalID: 2718717725100979843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_85
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b7c1022555982e0800000000000000
+      internalID: -2123071938114061487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_86
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d1bb5a0c4efa530800000000000000
+      internalID: 3868562120999902479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_87
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8197e4dea6264700800000000000000
+      internalID: 524148938973352332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_88
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b517fa785caecffc0800000000000000
+      internalID: -3459632279621504677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_89
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17e20668fe585000800000000000000
+      internalID: 24874218906904348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_90
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f64ab3185965bc0800000000000000
+      internalID: -3794681253729112212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_91
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0089f9ab8dcbbb10800000000000000
+      internalID: 1998416859404795916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_92
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b165ca024440e0f00800000000000000
+      internalID: 1084809250895320603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_93
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a049d2a273472330800000000000000
+      internalID: 3685988979663519906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_94
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9457090113cee790800000000000000
+      internalID: -7498841851591961446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_95
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6c00ae1ce1a3df0800000000000000
+      internalID: -199813415261124867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_96
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1090d0ad44fcaab70800000000000000
+      internalID: 8911162707328960769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_97
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6e6e5430b68b430800000000000000
+      internalID: 3798903947488847547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_98
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 4
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f7fa24a8d9a04b0800000000000000
+      internalID: -5473389179965571200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_99
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24ad1de02921a410800000000000000
+      internalID: 1486514573402809386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_100
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 9
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c280dc575200f6570800000000000000
+      internalID: 8461982385742612524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_101
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 4
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232c8254354028b00800000000000000
+      internalID: 829230037078688306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_102
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aad5d92e0c769c20800000000000000
+      internalID: 3212891784448694945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_103
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2726f81dfc90648b0800000000000000
+      internalID: -5168432734182350222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_104
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498484458d1793a60800000000000000
+      internalID: 7654274215633766548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_105
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3920b13ae5fa250800000000000000
+      internalID: 5958084886660289461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_106
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d9a7b85a1914010800000000000000
+      internalID: 1171377518288739635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_107
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cc4a3a3ba21acc0800000000000000
+      internalID: -3701630467688838000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_108
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 10
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fd2f216df761770800000000000000
+      internalID: 8581186697418694505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_109
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ae7ad177cddf1d0800000000000000
+      internalID: -3315251346518054300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_110
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0eb694d9bae43a0800000000000000
+      internalID: -6679212505313845065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_111
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581e33633da184f60800000000000000
+      internalID: 8018688630982959493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_112
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64f762669a0b4c20800000000000000
+      internalID: 3191656401934480494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_113
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccd8717cbc1c32d0800000000000000
+      internalID: -3297729231458870074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_114
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170aca29f2ec776d0800000000000000
+      internalID: -2992696723644833679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_115
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043a696ed03a88e60800000000000000
+      internalID: 7964795221103256384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_116
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f534ee8716bc0cfb0800000000000000
+      internalID: -4629476797435722913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_117
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d856e62289a5bba0800000000000000
+      internalID: -6073762145975772976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_118
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080d938c9836d6e60800000000000000
+      internalID: 7957125560054435968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_119
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7876aed08127c9a50800000000000000
+      internalID: 6529219007418623879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_120
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16946ac84e28a9dd0800000000000000
+      internalID: -2478524726790174367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_121
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ccf61dad1e6e180800000000000000
+      internalID: -9086326868240511892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WavesAlpha_122
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db82fb81e54bc760800000000000000
+      internalID: 7479148441196727249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WavesAlpha_0: -1475450055845682281
+      WavesAlpha_1: -751978797781178529
+      WavesAlpha_10: -6079174871223752911
+      WavesAlpha_100: 8461982385742612524
+      WavesAlpha_101: 829230037078688306
+      WavesAlpha_102: 3212891784448694945
+      WavesAlpha_103: -5168432734182350222
+      WavesAlpha_104: 7654274215633766548
+      WavesAlpha_105: 5958084886660289461
+      WavesAlpha_106: 1171377518288739635
+      WavesAlpha_107: -3701630467688838000
+      WavesAlpha_108: 8581186697418694505
+      WavesAlpha_109: -3315251346518054300
+      WavesAlpha_11: -3259729780490906997
+      WavesAlpha_110: -6679212505313845065
+      WavesAlpha_111: 8018688630982959493
+      WavesAlpha_112: 3191656401934480494
+      WavesAlpha_113: -3297729231458870074
+      WavesAlpha_114: -2992696723644833679
+      WavesAlpha_115: 7964795221103256384
+      WavesAlpha_116: -4629476797435722913
+      WavesAlpha_117: -6073762145975772976
+      WavesAlpha_118: 7957125560054435968
+      WavesAlpha_119: 6529219007418623879
+      WavesAlpha_12: -7927960797695866637
+      WavesAlpha_120: -2478524726790174367
+      WavesAlpha_121: -9086326868240511892
+      WavesAlpha_122: 7479148441196727249
+      WavesAlpha_13: -1588132100086564272
+      WavesAlpha_14: 2357322076418205352
+      WavesAlpha_15: -2247970065600497392
+      WavesAlpha_16: -1548561595968260561
+      WavesAlpha_17: 5524507320195527356
+      WavesAlpha_18: -6119080215477236932
+      WavesAlpha_19: 4020425705285904027
+      WavesAlpha_2: -5341399384699374707
+      WavesAlpha_20: 6860448483571753374
+      WavesAlpha_21: 8020755688398791776
+      WavesAlpha_22: -5293579557122131790
+      WavesAlpha_23: 814862061177054223
+      WavesAlpha_24: 1096994709644243781
+      WavesAlpha_25: 1894580541487613725
+      WavesAlpha_26: -5506853069172994368
+      WavesAlpha_27: -3641455665502330346
+      WavesAlpha_28: 3773726670301652652
+      WavesAlpha_29: 118242060241446029
+      WavesAlpha_3: -8929792624500185793
+      WavesAlpha_30: 3096255096274486094
+      WavesAlpha_31: -5754700133140705578
+      WavesAlpha_32: 205925026615572585
+      WavesAlpha_33: -1321660929171485763
+      WavesAlpha_34: 412541471370235629
+      WavesAlpha_35: 3992899209099798660
+      WavesAlpha_36: 4137986114731269502
+      WavesAlpha_37: -2160010154501408188
+      WavesAlpha_38: 462642312546936053
+      WavesAlpha_39: 8065775258382181230
+      WavesAlpha_4: -374597904463672100
+      WavesAlpha_40: 6668070788350977329
+      WavesAlpha_41: 2095878234140065704
+      WavesAlpha_42: 855877376910493195
+      WavesAlpha_43: -7739842459538817772
+      WavesAlpha_44: 4992829454558121218
+      WavesAlpha_45: 2928848556128299617
+      WavesAlpha_46: 6856481476646507226
+      WavesAlpha_47: -1574832932060894498
+      WavesAlpha_48: 123735836688151689
+      WavesAlpha_49: -1719418740597082214
+      WavesAlpha_5: 1233772849185165015
+      WavesAlpha_50: 3406399154988978865
+      WavesAlpha_51: -627304803659432961
+      WavesAlpha_52: 420220350995300990
+      WavesAlpha_53: -1168935989073108407
+      WavesAlpha_54: 5419438100798530723
+      WavesAlpha_55: -6768070042244515080
+      WavesAlpha_56: 2053756139682848921
+      WavesAlpha_57: -767689839567747880
+      WavesAlpha_58: -3238617761551621462
+      WavesAlpha_59: 6344303245787925196
+      WavesAlpha_6: -5508478056293963513
+      WavesAlpha_60: -4067359917933080524
+      WavesAlpha_61: 3397172788298644465
+      WavesAlpha_62: -4054036875027815639
+      WavesAlpha_63: -4270090028587318584
+      WavesAlpha_64: 8248775329357953462
+      WavesAlpha_65: -4244342050580573016
+      WavesAlpha_66: 1479917236418249030
+      WavesAlpha_67: 2704031585344885924
+      WavesAlpha_68: 360235148296004686
+      WavesAlpha_69: -6074488100870074045
+      WavesAlpha_7: 433763085847992192
+      WavesAlpha_70: -2736101777168271708
+      WavesAlpha_71: 3134899402830449901
+      WavesAlpha_72: -614881271437587082
+      WavesAlpha_73: 5637733148269424459
+      WavesAlpha_74: -3687496786246156472
+      WavesAlpha_75: -9013772866274476605
+      WavesAlpha_76: 4705472981323474088
+      WavesAlpha_77: -4351745862076576501
+      WavesAlpha_78: -8454247732346882996
+      WavesAlpha_79: 2211700650168894670
+      WavesAlpha_8: -7485668139561287441
+      WavesAlpha_80: -7317319764964318744
+      WavesAlpha_81: 5816231506070579284
+      WavesAlpha_82: 7021505408645646662
+      WavesAlpha_83: -1113217643481034283
+      WavesAlpha_84: 2718717725100979843
+      WavesAlpha_85: -2123071938114061487
+      WavesAlpha_86: 3868562120999902479
+      WavesAlpha_87: 524148938973352332
+      WavesAlpha_88: -3459632279621504677
+      WavesAlpha_89: 24874218906904348
+      WavesAlpha_9: -4631275434895251401
+      WavesAlpha_90: -3794681253729112212
+      WavesAlpha_91: 1998416859404795916
+      WavesAlpha_92: 1084809250895320603
+      WavesAlpha_93: 3685988979663519906
+      WavesAlpha_94: -7498841851591961446
+      WavesAlpha_95: -199813415261124867
+      WavesAlpha_96: 8911162707328960769
+      WavesAlpha_97: 3798903947488847547
+      WavesAlpha_98: -5473389179965571200
+      WavesAlpha_99: 1486514573402809386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
