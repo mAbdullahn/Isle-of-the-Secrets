@@ -1,142 +1,163 @@
 fileFormatVersion: 2
-guid: 2ebeeca5ef19f6344a2dfd84006e1717
+guid: aba9fe4cd2ae7c34ba83e5c715a4802f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3725627876854875849
-    second: Short Skirt_0
+      213: 5290517995234168745
+    second: Purple Bodice_0
   - first:
-      213: 8282506200285690737
-    second: Short Skirt_1
+      213: -8157819275705807725
+    second: Purple Bodice_1
   - first:
-      213: -4374327597911553885
-    second: Short Skirt_2
+      213: 4858425384690885381
+    second: Purple Bodice_2
   - first:
-      213: 630675441141210989
-    second: Short Skirt_3
+      213: 6702413310835369189
+    second: Purple Bodice_3
   - first:
-      213: -614139148484272532
-    second: Short Skirt_4
+      213: 3414541235006801425
+    second: Purple Bodice_4
   - first:
-      213: 8336538867446468563
-    second: Short Skirt_5
+      213: 6929074742977808036
+    second: Purple Bodice_5
   - first:
-      213: 7338437302691004461
-    second: Short Skirt_6
+      213: -7530259229874576533
+    second: Purple Bodice_6
   - first:
-      213: 8116158742993444637
-    second: Short Skirt_7
+      213: 7728200982601217933
+    second: Purple Bodice_7
   - first:
-      213: -2879608229610224437
-    second: Short Skirt_8
+      213: -8050065466328021943
+    second: Purple Bodice_8
   - first:
-      213: -8863664510957976445
-    second: Short Skirt_9
+      213: -9186964379628208713
+    second: Purple Bodice_9
   - first:
-      213: 5555313181723076293
-    second: Short Skirt_10
+      213: 1581501137566790712
+    second: Purple Bodice_10
   - first:
-      213: 730454115766670110
-    second: Short Skirt_11
+      213: 1716044212912524550
+    second: Purple Bodice_11
   - first:
-      213: -8777297131025081770
-    second: Short Skirt_12
+      213: 3715102864550111127
+    second: Purple Bodice_12
   - first:
-      213: 8650768235798329345
-    second: Short Skirt_13
+      213: 9130410950684007362
+    second: Purple Bodice_13
   - first:
-      213: 3059465954329184288
-    second: Short Skirt_14
+      213: -6706148457729068187
+    second: Purple Bodice_14
   - first:
-      213: 4739740466398914507
-    second: Short Skirt_15
+      213: -1974118773921626142
+    second: Purple Bodice_15
   - first:
-      213: 3790236963741525098
-    second: Short Skirt_16
+      213: -6642476975029169849
+    second: Purple Bodice_16
   - first:
-      213: 1988493323941621692
-    second: Short Skirt_17
+      213: 472586758805331713
+    second: Purple Bodice_17
   - first:
-      213: 6665922613697483452
-    second: Short Skirt_18
+      213: -672092650914177854
+    second: Purple Bodice_18
   - first:
-      213: -8994018411633000011
-    second: Short Skirt_19
+      213: 3158191675932418471
+    second: Purple Bodice_19
   - first:
-      213: 5347969110020076711
-    second: Short Skirt_20
+      213: -8612527677672191111
+    second: Purple Bodice_20
   - first:
-      213: -7828335866617770892
-    second: Short Skirt_21
+      213: 1761112876381075603
+    second: Purple Bodice_21
   - first:
-      213: -9065285832647215919
-    second: Short Skirt_22
+      213: -7700777128988571333
+    second: Purple Bodice_22
   - first:
-      213: 7659917656502181203
-    second: Short Skirt_23
+      213: -5823797417087693672
+    second: Purple Bodice_23
   - first:
-      213: -1787193905461236568
-    second: Short Skirt_24
+      213: -7468702349422583925
+    second: Purple Bodice_24
   - first:
-      213: -1218492087013725272
-    second: Short Skirt_25
+      213: -4412592277540463485
+    second: Purple Bodice_25
   - first:
-      213: 617914219725110163
-    second: Short Skirt_26
+      213: -1042913768958593503
+    second: Purple Bodice_26
   - first:
-      213: 4723508287019943268
-    second: Short Skirt_27
+      213: 2086090281844173379
+    second: Purple Bodice_27
   - first:
-      213: -2807714216874304526
-    second: Short Skirt_28
+      213: 5826996840613006476
+    second: Purple Bodice_28
   - first:
-      213: 2427581760545711315
-    second: Short Skirt_29
+      213: -7469829410948456594
+    second: Purple Bodice_29
   - first:
-      213: 3811651565848938754
-    second: Short Skirt_30
+      213: 5242135213010530696
+    second: Purple Bodice_30
   - first:
-      213: 1404873553282365348
-    second: Short Skirt_31
+      213: 441985757577651716
+    second: Purple Bodice_31
   - first:
-      213: 6119027993956610693
-    second: Short Skirt_32
+      213: 6031436396058644782
+    second: Purple Bodice_32
   - first:
-      213: -4369592292199535928
-    second: Short Skirt_33
+      213: -3040628423830108278
+    second: Purple Bodice_33
   - first:
-      213: -5876799956143189957
-    second: Short Skirt_34
+      213: -419230398225531499
+    second: Purple Bodice_34
   - first:
-      213: -6199867797516133210
-    second: Short Skirt_35
+      213: -7979907341415003173
+    second: Purple Bodice_35
   - first:
-      213: -7930650178337486450
-    second: Short Skirt_36
+      213: 5496992762752092116
+    second: Purple Bodice_36
   - first:
-      213: 1317827721900204975
-    second: Short Skirt_37
+      213: 2393875212820746282
+    second: Purple Bodice_37
   - first:
-      213: -5989190525675020793
-    second: Short Skirt_38
+      213: 1641238135368275413
+    second: Purple Bodice_38
   - first:
-      213: 5638925646088944099
-    second: Short Skirt_39
+      213: -735058753519313455
+    second: Purple Bodice_39
   - first:
-      213: -1105599871901551327
-    second: Short Skirt_40
+      213: 3719866577392005306
+    second: Purple Bodice_40
   - first:
-      213: 152524903843171486
-    second: Short Skirt_41
+      213: 6224915837262929670
+    second: Purple Bodice_41
   - first:
-      213: 1969902165248338923
-    second: Short Skirt_42
+      213: -3406506593814112998
+    second: Purple Bodice_42
   - first:
-      213: 3579594687376171640
-    second: Short Skirt_43
+      213: 4852913586266261127
+    second: Purple Bodice_43
   - first:
-      213: -1559542088496635378
-    second: Short Skirt_44
+      213: 4843524056693254652
+    second: Purple Bodice_44
+  - first:
+      213: 629490283974607953
+    second: Purple Bodice_45
+  - first:
+      213: 3462497343243469633
+    second: Purple Bodice_46
+  - first:
+      213: 3906025217983471800
+    second: Purple Bodice_47
+  - first:
+      213: -2949393549982498145
+    second: Purple Bodice_48
+  - first:
+      213: -6748625865323394862
+    second: Purple Bodice_49
+  - first:
+      213: -7804173757487824184
+    second: Purple Bodice_50
+  - first:
+      213: -361595966512107600
+    second: Purple Bodice_51
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -169,7 +190,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -183,7 +204,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -258,13 +279,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Short Skirt_0
+      name: Purple Bodice_0
       rect:
         serializedVersion: 2
-        x: 32
-        y: 391
-        width: 18
-        height: 13
+        x: 33
+        y: 398
+        width: 13
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -273,20 +294,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c64a3590d614b330800000000000000
-      internalID: 3725627876854875849
+      spriteID: 9af8eb71612bb6940800000000000000
+      internalID: 5290517995234168745
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Short Skirt_1
+      name: Purple Bodice_1
       rect:
         serializedVersion: 2
-        x: 112
-        y: 391
-        width: 18
-        height: 13
+        x: 113
+        y: 398
+        width: 13
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -295,20 +316,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 17bbffda18f51f270800000000000000
-      internalID: 8282506200285690737
+      spriteID: 39c88b9379a99ce80800000000000000
+      internalID: -8157819275705807725
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Short Skirt_2
+      name: Purple Bodice_2
       rect:
         serializedVersion: 2
-        x: 192
-        y: 391
-        width: 18
-        height: 13
+        x: 193
+        y: 398
+        width: 13
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -317,130 +338,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3a84b43d9344b43c0800000000000000
-      internalID: -4374327597911553885
+      spriteID: 503ad3675289c6340800000000000000
+      internalID: 4858425384690885381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Short Skirt_3
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 391
-        width: 18
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d6fd8c5e8fb90c800800000000000000
-      internalID: 630675441141210989
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_4
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 391
-        width: 18
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c6e1fe3c2b32a77f0800000000000000
-      internalID: -614139148484272532
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_5
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 327
-        width: 18
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3df426a5ee551b370800000000000000
-      internalID: 8336538867446468563
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_6
-      rect:
-        serializedVersion: 2
-        x: 111
-        y: 327
-        width: 18
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d208f5998dd57d560800000000000000
-      internalID: 7338437302691004461
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_7
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 328
-        width: 18
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d1f1ec0206362a070800000000000000
-      internalID: 8116158742993444637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_8
+      name: Purple Bodice_3
       rect:
         serializedVersion: 2
         x: 273
-        y: 328
-        width: 15
-        height: 13
+        y: 398
+        width: 13
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -449,548 +360,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc48acd62939908d0800000000000000
-      internalID: -2879608229610224437
+      spriteID: 5e421323561c30d50800000000000000
+      internalID: 6702413310835369189
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Short Skirt_9
-      rect:
-        serializedVersion: 2
-        x: 351
-        y: 327
-        width: 18
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3840d18c610fdf480800000000000000
-      internalID: -8863664510957976445
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_10
-      rect:
-        serializedVersion: 2
-        x: 432
-        y: 327
-        width: 19
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5c626acc7ef681d40800000000000000
-      internalID: 5555313181723076293
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_11
-      rect:
-        serializedVersion: 2
-        x: 513
-        y: 328
-        width: 17
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e139efee528132a00800000000000000
-      internalID: 730454115766670110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_12
-      rect:
-        serializedVersion: 2
-        x: 591
-        y: 328
-        width: 17
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 65ad13173c6c03680800000000000000
-      internalID: -8777297131025081770
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_13
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 264
-        width: 18
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 108fdf070e3bd0870800000000000000
-      internalID: 8650768235798329345
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_14
-      rect:
-        serializedVersion: 2
-        x: 111
-        y: 264
-        width: 19
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 02841326318657a20800000000000000
-      internalID: 3059465954329184288
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_15
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 264
-        width: 18
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bc7604b87d0f6c140800000000000000
-      internalID: 4739740466398914507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_16
-      rect:
-        serializedVersion: 2
-        x: 271
-        y: 264
-        width: 17
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a646e5edf60a99430800000000000000
-      internalID: 3790236963741525098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_17
-      rect:
-        serializedVersion: 2
-        x: 351
-        y: 264
-        width: 18
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cbfa6c3842c889b10800000000000000
-      internalID: 1988493323941621692
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_18
-      rect:
-        serializedVersion: 2
-        x: 431
-        y: 264
-        width: 20
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cb29ea1bc4d128c50800000000000000
-      internalID: 6665922613697483452
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_19
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 264
-        width: 18
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5b1ca4f28e3de2380800000000000000
-      internalID: -8994018411633000011
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_20
-      rect:
-        serializedVersion: 2
-        x: 591
-        y: 264
-        width: 18
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7a43280229dc73a40800000000000000
-      internalID: 5347969110020076711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_21
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 201
-        width: 17
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 47c4ccf610a2c5390800000000000000
-      internalID: -7828335866617770892
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_22
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 201
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1d47eada092a13280800000000000000
-      internalID: -9065285832647215919
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_23
-      rect:
-        serializedVersion: 2
-        x: 191
-        y: 201
-        width: 17
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 35d1e8c468e7d4a60800000000000000
-      internalID: 7659917656502181203
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_24
-      rect:
-        serializedVersion: 2
-        x: 271
-        y: 201
-        width: 18
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8ac6d38ac9c9237e0800000000000000
-      internalID: -1787193905461236568
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_25
-      rect:
-        serializedVersion: 2
-        x: 23
-        y: 140
-        width: 28
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8ab2ce717eb071fe0800000000000000
-      internalID: -1218492087013725272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_26
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 140
-        width: 30
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 39bb06085b5439800800000000000000
-      internalID: 617914219725110163
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_27
-      rect:
-        serializedVersion: 2
-        x: 183
-        y: 140
-        width: 29
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4650075c2c54d8140800000000000000
-      internalID: 4723508287019943268
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_28
-      rect:
-        serializedVersion: 2
-        x: 263
-        y: 140
-        width: 29
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2fb9460bbcef809d0800000000000000
-      internalID: -2807714216874304526
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_29
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 71
-        width: 18
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3d46b84dfb080b120800000000000000
-      internalID: 2427581760545711315
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_30
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 71
-        width: 18
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 209ccf577e4b5e430800000000000000
-      internalID: 3811651565848938754
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_31
-      rect:
-        serializedVersion: 2
-        x: 194
-        y: 71
-        width: 17
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4a77cb9ad0d1f7310800000000000000
-      internalID: 1404873553282365348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_32
-      rect:
-        serializedVersion: 2
-        x: 274
-        y: 71
-        width: 17
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 582747e5a872be450800000000000000
-      internalID: 6119027993956610693
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Short Skirt_33
+      name: Purple Bodice_4
       rect:
         serializedVersion: 2
         x: 353
-        y: 71
-        width: 16
-        height: 13
+        y: 398
+        width: 13
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -999,20 +382,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ca692a16f61c53c0800000000000000
-      internalID: -4369592292199535928
+      spriteID: 11601878923e26f20800000000000000
+      internalID: 3414541235006801425
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Short Skirt_34
+      name: Purple Bodice_5
       rect:
         serializedVersion: 2
-        x: 431
-        y: 71
-        width: 18
-        height: 14
+        x: 33
+        y: 334
+        width: 13
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1021,20 +404,174 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b30dd069399617ea0800000000000000
-      internalID: -5876799956143189957
+      spriteID: 4a6c25554c4092060800000000000000
+      internalID: 6929074742977808036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Short Skirt_35
+      name: Purple Bodice_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 334
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6328b0a0252f7790800000000000000
+      internalID: -7530259229874576533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 335
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8735c019d5104b60800000000000000
+      internalID: 7728200982601217933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 335
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94401e40c1c684090800000000000000
+      internalID: -8050065466328021943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_9
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 334
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdf7144298518080800000000000000
+      internalID: -9186964379628208713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_10
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 334
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8347b8cc7ee92f510800000000000000
+      internalID: 1581501137566790712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_11
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 335
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d0481ae1d90d710800000000000000
+      internalID: 1716044212912524550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_12
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 335
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797ab813f52be8330800000000000000
+      internalID: 3715102864550111127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_13
       rect:
         serializedVersion: 2
         x: 32
-        y: 7
-        width: 18
-        height: 13
+        y: 278
+        width: 13
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1043,20 +580,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6acdaa22615a5f9a0800000000000000
-      internalID: -6199867797516133210
+      spriteID: 2cb5bd8726cb5be70800000000000000
+      internalID: 9130410950684007362
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Short Skirt_36
+      name: Purple Bodice_14
       rect:
         serializedVersion: 2
-        x: 110
-        y: 5
-        width: 17
-        height: 14
+        x: 35
+        y: 271
+        width: 9
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1065,20 +602,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e894e426eaba0f190800000000000000
-      internalID: -7930650178337486450
+      spriteID: 56376062289fee2a0800000000000000
+      internalID: -6706148457729068187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Short Skirt_37
+      name: Purple Bodice_15
       rect:
         serializedVersion: 2
-        x: 189
-        y: 1
-        width: 17
-        height: 12
+        x: 112
+        y: 272
+        width: 13
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1087,20 +624,592 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fa32607b45dd94210800000000000000
-      internalID: 1317827721900204975
+      spriteID: 2e7c8f73f658a94e0800000000000000
+      internalID: -1974118773921626142
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Short Skirt_38
+      name: Purple Bodice_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 271
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741dca2726e21d3a0800000000000000
+      internalID: -6642476975029169849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 271
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f152c3727fe8600800000000000000
+      internalID: 472586758805331713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 271
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc1c1e7b4f3ca6f0800000000000000
+      internalID: -672092650914177854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 270
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a12c80b89624db20800000000000000
+      internalID: 3158191675932418471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 271
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b012255b72a7880800000000000000
+      internalID: -8612527677672191111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_21
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 272
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3987f0e84dab07810800000000000000
+      internalID: 1761112876381075603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 209
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b390f2c6008512590800000000000000
+      internalID: -7700777128988571333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 209
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c86aeda17bd2fa0800000000000000
+      internalID: -5823797417087693672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 209
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f9a89b8c6d95890800000000000000
+      internalID: -7468702349422583925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_25
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 209
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c9196d3b253c2c0800000000000000
+      internalID: -4412592277540463485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_26
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 143
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126fbd5e373d681f0800000000000000
+      internalID: -1042913768958593503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 143
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a67ba0f0843fc10800000000000000
+      internalID: 2086090281844173379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 143
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ccf08f0c6add050800000000000000
+      internalID: 5826996840613006476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_29
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 143
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fd6a34ab5d55890800000000000000
+      internalID: -7469829410948456594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 78
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8813f04c33ecfb840800000000000000
+      internalID: 5242135213010530696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 78
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406a23c64bf322600800000000000000
+      internalID: 441985757577651716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_32
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 79
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2110704277f3b350800000000000000
+      internalID: 6031436396058644782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_33
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 79
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8786a7fe848dc5d0800000000000000
+      internalID: -3040628423830108278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 87
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59db8ba8c289e2af0800000000000000
+      internalID: -419230398225531499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_35
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 89
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb4d666d8ca14190800000000000000
+      internalID: -7979907341415003173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 85
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d74bbc1bcd394c40800000000000000
+      internalID: 5496992762752092116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_37
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 78
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a201bc0a2d0c83120800000000000000
+      internalID: 2393875212820746282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_38
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 78
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d553727369d6c610800000000000000
+      internalID: 1641238135368275413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_39
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 14
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd907b45fb8cc5f0800000000000000
+      internalID: -735058753519313455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_40
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 12
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab07c4581fe9f9330800000000000000
+      internalID: 3719866577392005306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_41
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 6
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f92c419f7536650800000000000000
+      internalID: 6224915837262929670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_42
       rect:
         serializedVersion: 2
         x: 268
-        y: 0
-        width: 18
-        height: 12
+        y: 5
+        width: 13
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1109,20 +1218,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 70e5101f2fe12eca0800000000000000
-      internalID: -5989190525675020793
+      spriteID: a151fa62d48a9b0d0800000000000000
+      internalID: -3406506593814112998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Short Skirt_39
+      name: Purple Bodice_43
       rect:
         serializedVersion: 2
-        x: 347
-        y: 0
-        width: 18
-        height: 12
+        x: 348
+        y: 6
+        width: 13
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1131,20 +1240,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3e9b8f1bffc714e40800000000000000
-      internalID: 5638925646088944099
+      spriteID: 7864113e133095340800000000000000
+      internalID: 4852913586266261127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Short Skirt_40
+      name: Purple Bodice_44
       rect:
         serializedVersion: 2
-        x: 427
-        y: 0
-        width: 18
-        height: 12
+        x: 425
+        y: 5
+        width: 13
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1153,20 +1262,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 125379336ce18a0f0800000000000000
-      internalID: -1105599871901551327
+      spriteID: cf9a24ca777a73340800000000000000
+      internalID: 4843524056693254652
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Short Skirt_41
+      name: Purple Bodice_45
       rect:
         serializedVersion: 2
-        x: 506
-        y: 0
-        width: 19
-        height: 12
+        x: 503
+        y: 5
+        width: 14
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1175,20 +1284,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e9c09f88790ed1200800000000000000
-      internalID: 152524903843171486
+      spriteID: 154cdddf3166cb800800000000000000
+      internalID: 629490283974607953
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Short Skirt_42
+      name: Purple Bodice_46
       rect:
         serializedVersion: 2
-        x: 587
-        y: 0
-        width: 11
-        height: 10
+        x: 576
+        y: 1
+        width: 9
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1197,17 +1306,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: beb66e1159f765b10800000000000000
-      internalID: 1969902165248338923
+      spriteID: 143c2c31df24d0030800000000000000
+      internalID: 3462497343243469633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Short Skirt_43
+      name: Purple Bodice_47
       rect:
         serializedVersion: 2
-        x: 667
+        x: 584
         y: 0
         width: 10
         height: 9
@@ -1219,20 +1328,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 872aee417664da130800000000000000
-      internalID: 3579594687376171640
+      spriteID: 8b06f91ad3df43630800000000000000
+      internalID: 3906025217983471800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Short Skirt_44
+      name: Purple Bodice_48
       rect:
         serializedVersion: 2
-        x: 747
-        y: 0
-        width: 11
-        height: 10
+        x: 656
+        y: 1
+        width: 8
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1241,8 +1350,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e0223eabbb46b5ae0800000000000000
-      internalID: -1559542088496635378
+      spriteID: f92077e5136a117d0800000000000000
+      internalID: -2949393549982498145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_49
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8c26ff7801852a0800000000000000
+      internalID: -6748625865323394862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_50
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2438bd05102b390800000000000000
+      internalID: -7804173757487824184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_51
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfe4df526a5bfaf0800000000000000
+      internalID: -361595966512107600
       vertices: []
       indices: 
       edges: []
@@ -1261,51 +1436,58 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Short Skirt_0: 3725627876854875849
-      Short Skirt_1: 8282506200285690737
-      Short Skirt_10: 5555313181723076293
-      Short Skirt_11: 730454115766670110
-      Short Skirt_12: -8777297131025081770
-      Short Skirt_13: 8650768235798329345
-      Short Skirt_14: 3059465954329184288
-      Short Skirt_15: 4739740466398914507
-      Short Skirt_16: 3790236963741525098
-      Short Skirt_17: 1988493323941621692
-      Short Skirt_18: 6665922613697483452
-      Short Skirt_19: -8994018411633000011
-      Short Skirt_2: -4374327597911553885
-      Short Skirt_20: 5347969110020076711
-      Short Skirt_21: -7828335866617770892
-      Short Skirt_22: -9065285832647215919
-      Short Skirt_23: 7659917656502181203
-      Short Skirt_24: -1787193905461236568
-      Short Skirt_25: -1218492087013725272
-      Short Skirt_26: 617914219725110163
-      Short Skirt_27: 4723508287019943268
-      Short Skirt_28: -2807714216874304526
-      Short Skirt_29: 2427581760545711315
-      Short Skirt_3: 630675441141210989
-      Short Skirt_30: 3811651565848938754
-      Short Skirt_31: 1404873553282365348
-      Short Skirt_32: 6119027993956610693
-      Short Skirt_33: -4369592292199535928
-      Short Skirt_34: -5876799956143189957
-      Short Skirt_35: -6199867797516133210
-      Short Skirt_36: -7930650178337486450
-      Short Skirt_37: 1317827721900204975
-      Short Skirt_38: -5989190525675020793
-      Short Skirt_39: 5638925646088944099
-      Short Skirt_4: -614139148484272532
-      Short Skirt_40: -1105599871901551327
-      Short Skirt_41: 152524903843171486
-      Short Skirt_42: 1969902165248338923
-      Short Skirt_43: 3579594687376171640
-      Short Skirt_44: -1559542088496635378
-      Short Skirt_5: 8336538867446468563
-      Short Skirt_6: 7338437302691004461
-      Short Skirt_7: 8116158742993444637
-      Short Skirt_8: -2879608229610224437
-      Short Skirt_9: -8863664510957976445
+      Purple Bodice_0: 5290517995234168745
+      Purple Bodice_1: -8157819275705807725
+      Purple Bodice_10: 1581501137566790712
+      Purple Bodice_11: 1716044212912524550
+      Purple Bodice_12: 3715102864550111127
+      Purple Bodice_13: 9130410950684007362
+      Purple Bodice_14: -6706148457729068187
+      Purple Bodice_15: -1974118773921626142
+      Purple Bodice_16: -6642476975029169849
+      Purple Bodice_17: 472586758805331713
+      Purple Bodice_18: -672092650914177854
+      Purple Bodice_19: 3158191675932418471
+      Purple Bodice_2: 4858425384690885381
+      Purple Bodice_20: -8612527677672191111
+      Purple Bodice_21: 1761112876381075603
+      Purple Bodice_22: -7700777128988571333
+      Purple Bodice_23: -5823797417087693672
+      Purple Bodice_24: -7468702349422583925
+      Purple Bodice_25: -4412592277540463485
+      Purple Bodice_26: -1042913768958593503
+      Purple Bodice_27: 2086090281844173379
+      Purple Bodice_28: 5826996840613006476
+      Purple Bodice_29: -7469829410948456594
+      Purple Bodice_3: 6702413310835369189
+      Purple Bodice_30: 5242135213010530696
+      Purple Bodice_31: 441985757577651716
+      Purple Bodice_32: 6031436396058644782
+      Purple Bodice_33: -3040628423830108278
+      Purple Bodice_34: -419230398225531499
+      Purple Bodice_35: -7979907341415003173
+      Purple Bodice_36: 5496992762752092116
+      Purple Bodice_37: 2393875212820746282
+      Purple Bodice_38: 1641238135368275413
+      Purple Bodice_39: -735058753519313455
+      Purple Bodice_4: 3414541235006801425
+      Purple Bodice_40: 3719866577392005306
+      Purple Bodice_41: 6224915837262929670
+      Purple Bodice_42: -3406506593814112998
+      Purple Bodice_43: 4852913586266261127
+      Purple Bodice_44: 4843524056693254652
+      Purple Bodice_45: 629490283974607953
+      Purple Bodice_46: 3462497343243469633
+      Purple Bodice_47: 3906025217983471800
+      Purple Bodice_48: -2949393549982498145
+      Purple Bodice_49: -6748625865323394862
+      Purple Bodice_5: 6929074742977808036
+      Purple Bodice_50: -7804173757487824184
+      Purple Bodice_51: -361595966512107600
+      Purple Bodice_6: -7530259229874576533
+      Purple Bodice_7: 7728200982601217933
+      Purple Bodice_8: -8050065466328021943
+      Purple Bodice_9: -9186964379628208713
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

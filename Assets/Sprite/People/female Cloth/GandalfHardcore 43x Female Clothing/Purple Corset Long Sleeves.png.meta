@@ -1,157 +1,154 @@
 fileFormatVersion: 2
-guid: bd1052da3ecaf2648a3aa4f49eff8d3b
+guid: 044dcdcf363b91441a2eb13501c159dc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8666471141821985070
-    second: Fancy Blue Dress_0
+      213: -6641646230105007534
+    second: Purple Corset Long Sleeves_0
   - first:
-      213: -4337390201967332526
-    second: Fancy Blue Dress_1
+      213: 934667230817789572
+    second: Purple Corset Long Sleeves_1
   - first:
-      213: 7629756076450395346
-    second: Fancy Blue Dress_2
+      213: 3941036723183193198
+    second: Purple Corset Long Sleeves_2
   - first:
-      213: 222794010325266655
-    second: Fancy Blue Dress_3
+      213: -9076637714784754151
+    second: Purple Corset Long Sleeves_3
   - first:
-      213: -1321271582356169825
-    second: Fancy Blue Dress_4
+      213: 1944695996131790284
+    second: Purple Corset Long Sleeves_4
   - first:
-      213: 3073956757300409764
-    second: Fancy Blue Dress_5
+      213: -5413938500873210005
+    second: Purple Corset Long Sleeves_5
   - first:
-      213: -3005227571023157408
-    second: Fancy Blue Dress_6
+      213: -7982913606474823495
+    second: Purple Corset Long Sleeves_6
   - first:
-      213: 2068325682888732109
-    second: Fancy Blue Dress_7
+      213: 6546356748596662777
+    second: Purple Corset Long Sleeves_7
   - first:
-      213: -1014327169042099468
-    second: Fancy Blue Dress_8
+      213: -9062591142651410629
+    second: Purple Corset Long Sleeves_8
   - first:
-      213: 4656685115773036194
-    second: Fancy Blue Dress_9
+      213: 5062261231744904355
+    second: Purple Corset Long Sleeves_9
   - first:
-      213: 6029311261936374316
-    second: Fancy Blue Dress_10
+      213: 2045848778681733297
+    second: Purple Corset Long Sleeves_10
   - first:
-      213: 6796918735197406350
-    second: Fancy Blue Dress_11
+      213: 5566497606504585261
+    second: Purple Corset Long Sleeves_11
   - first:
-      213: -4622216825121056588
-    second: Fancy Blue Dress_12
+      213: 2559590644481046371
+    second: Purple Corset Long Sleeves_12
   - first:
-      213: -378106269967042401
-    second: Fancy Blue Dress_13
+      213: -6598225728861123864
+    second: Purple Corset Long Sleeves_13
   - first:
-      213: 8340662085376259071
-    second: Fancy Blue Dress_14
+      213: 7602519384551550074
+    second: Purple Corset Long Sleeves_14
   - first:
-      213: 1818843909376789733
-    second: Fancy Blue Dress_15
+      213: 1656670297149860811
+    second: Purple Corset Long Sleeves_15
   - first:
-      213: -8008158332199105123
-    second: Fancy Blue Dress_16
+      213: 3403885949213491593
+    second: Purple Corset Long Sleeves_16
   - first:
-      213: 649916884461512721
-    second: Fancy Blue Dress_17
+      213: 4967395931113973852
+    second: Purple Corset Long Sleeves_17
   - first:
-      213: -7146283912453379663
-    second: Fancy Blue Dress_18
+      213: -7043136435077205141
+    second: Purple Corset Long Sleeves_18
   - first:
-      213: 6859015171552165063
-    second: Fancy Blue Dress_19
+      213: 6141942373947158821
+    second: Purple Corset Long Sleeves_19
   - first:
-      213: 7851573353201905165
-    second: Fancy Blue Dress_20
+      213: 4877089542151838142
+    second: Purple Corset Long Sleeves_20
   - first:
-      213: 21975009277638036
-    second: Fancy Blue Dress_21
+      213: -1429026444102009466
+    second: Purple Corset Long Sleeves_21
   - first:
-      213: 5874175186121228025
-    second: Fancy Blue Dress_22
+      213: 7849668909668346442
+    second: Purple Corset Long Sleeves_22
   - first:
-      213: -1795859060214891813
-    second: Fancy Blue Dress_23
+      213: 6351490485329421250
+    second: Purple Corset Long Sleeves_23
   - first:
-      213: 5191043273798430816
-    second: Fancy Blue Dress_24
+      213: 1996185525842001272
+    second: Purple Corset Long Sleeves_24
   - first:
-      213: -8951269579793061370
-    second: Fancy Blue Dress_25
+      213: -2428642380778958972
+    second: Purple Corset Long Sleeves_25
   - first:
-      213: 7803056669647075751
-    second: Fancy Blue Dress_26
+      213: 4605048059457476635
+    second: Purple Corset Long Sleeves_26
   - first:
-      213: -4153612589896456330
-    second: Fancy Blue Dress_27
+      213: -4204395367710224554
+    second: Purple Corset Long Sleeves_27
   - first:
-      213: -7967039682004238225
-    second: Fancy Blue Dress_28
+      213: 1900495459170970165
+    second: Purple Corset Long Sleeves_28
   - first:
-      213: -2063733220968422966
-    second: Fancy Blue Dress_29
+      213: 1568944697485209415
+    second: Purple Corset Long Sleeves_29
   - first:
-      213: 6222069437970241541
-    second: Fancy Blue Dress_30
+      213: -53548598812542170
+    second: Purple Corset Long Sleeves_30
   - first:
-      213: -6153938202730627553
-    second: Fancy Blue Dress_31
+      213: 764711189926198290
+    second: Purple Corset Long Sleeves_31
   - first:
-      213: 3945804712844319995
-    second: Fancy Blue Dress_32
+      213: 726421580273357534
+    second: Purple Corset Long Sleeves_32
   - first:
-      213: 6828114768422563407
-    second: Fancy Blue Dress_33
+      213: 5006030268009600451
+    second: Purple Corset Long Sleeves_33
   - first:
-      213: 3656645231900297067
-    second: Fancy Blue Dress_34
+      213: -6793804877460538273
+    second: Purple Corset Long Sleeves_34
   - first:
-      213: 3873776691580695166
-    second: Fancy Blue Dress_35
+      213: -3957511859871214152
+    second: Purple Corset Long Sleeves_35
   - first:
-      213: 8916347949465990998
-    second: Fancy Blue Dress_36
+      213: 4338640553606899439
+    second: Purple Corset Long Sleeves_36
   - first:
-      213: -3583992921076313257
-    second: Fancy Blue Dress_37
+      213: -690084786574563830
+    second: Purple Corset Long Sleeves_37
   - first:
-      213: 4828126237874195034
-    second: Fancy Blue Dress_38
+      213: 7310830398262160036
+    second: Purple Corset Long Sleeves_38
   - first:
-      213: -6801258414088051345
-    second: Fancy Blue Dress_39
+      213: 129719481635310770
+    second: Purple Corset Long Sleeves_39
   - first:
-      213: 4055812137896764625
-    second: Fancy Blue Dress_40
+      213: 5796232316622307044
+    second: Purple Corset Long Sleeves_40
   - first:
-      213: 8982868096391100145
-    second: Fancy Blue Dress_41
+      213: -1124443577328388471
+    second: Purple Corset Long Sleeves_41
   - first:
-      213: -8457541298806146038
-    second: Fancy Blue Dress_42
+      213: 5100474946411776075
+    second: Purple Corset Long Sleeves_42
   - first:
-      213: 4751354952751499843
-    second: Fancy Blue Dress_43
+      213: -4205919955719786690
+    second: Purple Corset Long Sleeves_43
   - first:
-      213: 6770701679573616019
-    second: Fancy Blue Dress_44
+      213: 6518734978652468604
+    second: Purple Corset Long Sleeves_44
   - first:
-      213: -294294951800750068
-    second: Fancy Blue Dress_45
+      213: -8900649292276244461
+    second: Purple Corset Long Sleeves_45
   - first:
-      213: 7252235411183048348
-    second: Fancy Blue Dress_46
+      213: 4527995612269803070
+    second: Purple Corset Long Sleeves_46
   - first:
-      213: 7349758841337601762
-    second: Fancy Blue Dress_47
+      213: 6119671661472800997
+    second: Purple Corset Long Sleeves_47
   - first:
-      213: -4167899840041118888
-    second: Fancy Blue Dress_48
-  - first:
-      213: 2559359344854878031
-    second: Fancy Blue Dress_49
+      213: 6264449993743751824
+    second: Purple Corset Long Sleeves_48
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -184,7 +181,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -198,7 +195,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -273,321 +270,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fancy Blue Dress_0
+      name: Purple Corset Long Sleeves_0
       rect:
         serializedVersion: 2
-        x: 31
-        y: 383
-        width: 20
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e213978269d754870800000000000000
-      internalID: 8666471141821985070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_1
-      rect:
-        serializedVersion: 2
-        x: 111
-        y: 383
-        width: 20
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2533a7f779e7ec3c0800000000000000
-      internalID: -4337390201967332526
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_2
-      rect:
-        serializedVersion: 2
-        x: 191
-        y: 383
-        width: 20
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2d434b33ab652e960800000000000000
-      internalID: 7629756076450395346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_3
-      rect:
-        serializedVersion: 2
-        x: 271
-        y: 383
-        width: 20
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fd0b583d8f5871300800000000000000
-      internalID: 222794010325266655
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_4
-      rect:
-        serializedVersion: 2
-        x: 351
-        y: 383
-        width: 20
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f9b97d90f76e9ade0800000000000000
-      internalID: -1321271582356169825
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_5
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 319
-        width: 20
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4a57dcd5263e8aa20800000000000000
-      internalID: 3073956757300409764
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_6
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 319
-        width: 20
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 06764ff42794b46d0800000000000000
-      internalID: -3005227571023157408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_7
-      rect:
-        serializedVersion: 2
-        x: 191
-        y: 320
-        width: 20
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dcd6668004b24bc10800000000000000
-      internalID: 2068325682888732109
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_8
-      rect:
-        serializedVersion: 2
-        x: 270
-        y: 320
-        width: 19
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4f2d73b50d26ce1f0800000000000000
-      internalID: -1014327169042099468
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_9
-      rect:
-        serializedVersion: 2
-        x: 350
-        y: 319
-        width: 20
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2a6208cc07edf9040800000000000000
-      internalID: 4656685115773036194
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_10
-      rect:
-        serializedVersion: 2
-        x: 430
-        y: 319
-        width: 22
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c22daf7e5aa6ca350800000000000000
-      internalID: 6029311261936374316
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_11
-      rect:
-        serializedVersion: 2
-        x: 511
-        y: 320
-        width: 20
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e8483aaf391835e50800000000000000
-      internalID: 6796918735197406350
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_12
-      rect:
-        serializedVersion: 2
-        x: 590
-        y: 320
-        width: 19
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4b853df79469adfb0800000000000000
-      internalID: -4622216825121056588
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_13
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 256
-        width: 21
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f98344bc952b0caf0800000000000000
-      internalID: -378106269967042401
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_14
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 278
+        x: 33
+        y: 398
         width: 15
-        height: 11
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -596,20 +285,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff3bb66d9fbffb370800000000000000
-      internalID: 8340662085376259071
+      spriteID: 25a57c251f124d3a0800000000000000
+      internalID: -6641646230105007534
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fancy Blue Dress_15
+      name: Purple Corset Long Sleeves_1
       rect:
         serializedVersion: 2
-        x: 110
-        y: 256
-        width: 22
-        height: 32
+        x: 113
+        y: 398
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -618,372 +307,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ec494026e4dd3910800000000000000
-      internalID: 1818843909376789733
+      spriteID: 486a714f4ea98fc00800000000000000
+      internalID: 934667230817789572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fancy Blue Dress_16
-      rect:
-        serializedVersion: 2
-        x: 191
-        y: 257
-        width: 20
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d9d00380d6e4dd090800000000000000
-      internalID: -8008158332199105123
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_17
-      rect:
-        serializedVersion: 2
-        x: 270
-        y: 257
-        width: 20
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1186bd786f7f40900800000000000000
-      internalID: 649916884461512721
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_18
-      rect:
-        serializedVersion: 2
-        x: 350
-        y: 256
-        width: 20
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1b9a02ee4ac43dc90800000000000000
-      internalID: -7146283912453379663
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_19
-      rect:
-        serializedVersion: 2
-        x: 430
-        y: 256
-        width: 22
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7ccb16935fd103f50800000000000000
-      internalID: 6859015171552165063
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_20
-      rect:
-        serializedVersion: 2
-        x: 511
-        y: 257
-        width: 21
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d0ea5858d5466fc60800000000000000
-      internalID: 7851573353201905165
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_21
-      rect:
-        serializedVersion: 2
-        x: 590
-        y: 257
-        width: 21
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 495fded87221e4000800000000000000
-      internalID: 21975009277638036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_22
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 195
-        width: 19
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9fe7b258533458150800000000000000
-      internalID: 5874175186121228025
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_23
-      rect:
-        serializedVersion: 2
-        x: 111
-        y: 194
-        width: 18
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bda793913b3d317e0800000000000000
-      internalID: -1795859060214891813
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_24
-      rect:
-        serializedVersion: 2
-        x: 190
-        y: 195
-        width: 19
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 060bf6caa5a4a0840800000000000000
-      internalID: 5191043273798430816
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_25
-      rect:
-        serializedVersion: 2
-        x: 271
-        y: 195
-        width: 19
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 60aaca73eb3b6c380800000000000000
-      internalID: -8951269579793061370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_26
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 136
-        width: 31
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7a97e8cd2b60a4c60800000000000000
-      internalID: 7803056669647075751
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_27
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 136
-        width: 33
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 677a1a43b576b56c0800000000000000
-      internalID: -4153612589896456330
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_28
-      rect:
-        serializedVersion: 2
-        x: 181
-        y: 136
-        width: 32
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f6042b2de936f6190800000000000000
-      internalID: -7967039682004238225
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_29
-      rect:
-        serializedVersion: 2
-        x: 261
-        y: 136
-        width: 32
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ac12105d1952c53e0800000000000000
-      internalID: -2063733220968422966
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_30
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 63
-        width: 20
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 508d70a103b395650800000000000000
-      internalID: 6222069437970241541
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_31
-      rect:
-        serializedVersion: 2
-        x: 111
-        y: 63
-        width: 20
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f1ef8804fc1d89aa0800000000000000
-      internalID: -6153938202730627553
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_32
+      name: Purple Corset Long Sleeves_2
       rect:
         serializedVersion: 2
         x: 193
-        y: 63
-        width: 22
-        height: 38
+        y: 398
+        width: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -992,20 +329,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bfcd5260b7052c630800000000000000
-      internalID: 3945804712844319995
+      spriteID: e6c8a1ce40061b630800000000000000
+      internalID: 3941036723183193198
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fancy Blue Dress_33
+      name: Purple Corset Long Sleeves_3
       rect:
         serializedVersion: 2
         x: 273
-        y: 63
-        width: 22
-        height: 38
+        y: 398
+        width: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1014,20 +351,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f4eec69743652ce50800000000000000
-      internalID: 6828114768422563407
+      spriteID: 9166757a61e490280800000000000000
+      internalID: -9076637714784754151
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fancy Blue Dress_34
+      name: Purple Corset Long Sleeves_4
       rect:
         serializedVersion: 2
-        x: 350
-        y: 63
-        width: 20
-        height: 32
+        x: 353
+        y: 398
+        width: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1036,20 +373,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b670b05f6730fb230800000000000000
-      internalID: 3656645231900297067
+      spriteID: ccd4f8d74b2fcfa10800000000000000
+      internalID: 1944695996131790284
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fancy Blue Dress_35
+      name: Purple Corset Long Sleeves_5
       rect:
         serializedVersion: 2
-        x: 430
-        y: 63
-        width: 20
-        height: 22
+        x: 33
+        y: 334
+        width: 13
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1058,18 +395,194 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e72fad8706b62c530800000000000000
-      internalID: 3873776691580695166
+      spriteID: b6734a32e93ddd4b0800000000000000
+      internalID: -5413938500873210005
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fancy Blue Dress_36
+      name: Purple Corset Long Sleeves_6
       rect:
         serializedVersion: 2
-        x: 432
-        y: 84
+        x: 113
+        y: 334
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b88f65ce5ef63190800000000000000
+      internalID: -7982913606474823495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 334
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1d51d57c459da50800000000000000
+      internalID: 6546356748596662777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 335
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3749a51f553b3280800000000000000
+      internalID: -9062591142651410629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_9
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 334
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ace26ee4c3c04640800000000000000
+      internalID: 5062261231744904355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_10
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 334
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0dd75ff90546c10800000000000000
+      internalID: 2045848778681733297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_11
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 334
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2894ce941c204d40800000000000000
+      internalID: 5566497606504585261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_12
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 335
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367b4be312e758320800000000000000
+      internalID: 2559590644481046371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 271
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eac36398a46e64a0800000000000000
+      internalID: -6598225728861123864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 273
         width: 13
         height: 12
       alignment: 0
@@ -1080,20 +593,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 657f3bd183b3dbb70800000000000000
-      internalID: 8916347949465990998
+      spriteID: a7c6732b913918960800000000000000
+      internalID: 7602519384551550074
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fancy Blue Dress_37
+      name: Purple Corset Long Sleeves_15
       rect:
         serializedVersion: 2
-        x: 31
-        y: 0
-        width: 20
-        height: 32
+        x: 192
+        y: 270
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1102,20 +615,152 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7535bb55d69134ec0800000000000000
-      internalID: -3583992921076313257
+      spriteID: bcbee8b9bdcadf610800000000000000
+      internalID: 1656670297149860811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fancy Blue Dress_38
+      name: Purple Corset Long Sleeves_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 271
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98140da7c380d3f20800000000000000
+      internalID: 3403885949213491593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 271
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58e4cce74cbfe440800000000000000
+      internalID: 4967395931113973852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_18
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 270
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63bc9a7ab0c14e90800000000000000
+      internalID: -7043136435077205141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 270
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5213a063c009c3550800000000000000
+      internalID: 6141942373947158821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_20
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 272
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb99bb14917eea340800000000000000
+      internalID: 4877089542151838142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 209
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68df8a835041b2ce0800000000000000
+      internalID: -1429026444102009466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_22
       rect:
         serializedVersion: 2
         x: 110
-        y: 0
+        y: 209
         width: 19
-        height: 30
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1124,20 +769,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a5a0c3b9b33f00340800000000000000
-      internalID: 4828126237874195034
+      spriteID: a4aa535b840afec60800000000000000
+      internalID: 7849668909668346442
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fancy Blue Dress_39
+      name: Purple Corset Long Sleeves_23
       rect:
         serializedVersion: 2
-        x: 187
-        y: 0
-        width: 20
-        height: 24
+        x: 190
+        y: 209
+        width: 19
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1146,20 +791,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f6525aac1831d91a0800000000000000
-      internalID: -6801258414088051345
+      spriteID: 2c3655cd1f6052850800000000000000
+      internalID: 6351490485329421250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fancy Blue Dress_40
+      name: Purple Corset Long Sleeves_24
       rect:
         serializedVersion: 2
-        x: 267
-        y: 0
+        x: 270
+        y: 209
         width: 20
-        height: 23
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1168,20 +813,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d4ed0b96a3294830800000000000000
-      internalID: 4055812137896764625
+      spriteID: 87db695d820e3bb10800000000000000
+      internalID: 1996185525842001272
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fancy Blue Dress_41
+      name: Purple Corset Long Sleeves_25
       rect:
         serializedVersion: 2
-        x: 347
-        y: 0
-        width: 20
-        height: 24
+        x: 29
+        y: 157
+        width: 6
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1190,20 +835,416 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1f6b49db0fe89ac70800000000000000
-      internalID: 8982868096391100145
+      spriteID: 48f06374f9abb4ed0800000000000000
+      internalID: -2428642380778958972
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fancy Blue Dress_42
+      name: Purple Corset Long Sleeves_26
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 143
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18909dbfca68ef30800000000000000
+      internalID: 4605048059457476635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 157
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f855c50bcf6a5c0800000000000000
+      internalID: -4204395367710224554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 143
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ae0250d8aef5a10800000000000000
+      internalID: 1900495459170970165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_29
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 157
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fa6d5c3e206c510800000000000000
+      internalID: 1568944697485209415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 143
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bfe8545d1c14ff0800000000000000
+      internalID: -53548598812542170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_31
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 157
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c315f86cccc9a00800000000000000
+      internalID: 764711189926198290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_32
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 143
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed21f591494c41a00800000000000000
+      internalID: 726421580273357534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 78
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5d093710ef87540800000000000000
+      internalID: 5006030268009600451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_34
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 78
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cf5a5857e87b1a0800000000000000
+      internalID: -6793804877460538273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_35
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 79
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b51bf56ee71419c0800000000000000
+      internalID: -3957511859871214152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_36
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 79
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6e7dda892f53c30800000000000000
+      internalID: 4338640553606899439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_37
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 78
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a066257fa835c66f0800000000000000
+      internalID: -690084786574563830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_38
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 78
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa2b854389457560800000000000000
+      internalID: 7310830398262160036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_39
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 14
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc02576e2bdcc100800000000000000
+      internalID: 129719481635310770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_40
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 12
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee79eb059a507050800000000000000
+      internalID: 5796232316622307044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_41
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 6
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9863f53268c2560f0800000000000000
+      internalID: -1124443577328388471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_42
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 5
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4847a6b0f688c640800000000000000
+      internalID: 5100474946411776075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_43
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 6
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f689d851291a5c0800000000000000
+      internalID: -4205919955719786690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_44
       rect:
         serializedVersion: 2
         x: 425
-        y: 0
-        width: 21
-        height: 23
+        y: 5
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1212,20 +1253,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a0cb67baff6c0aa80800000000000000
-      internalID: -8457541298806146038
+      spriteID: c757e73ece2377a50800000000000000
+      internalID: 6518734978652468604
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fancy Blue Dress_43
+      name: Purple Corset Long Sleeves_45
       rect:
         serializedVersion: 2
         x: 503
-        y: 0
-        width: 22
-        height: 23
+        y: 4
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1234,19 +1275,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 34acb80e72430f140800000000000000
-      internalID: 4751354952751499843
+      spriteID: 310ea8750aa8a7480800000000000000
+      internalID: -8900649292276244461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fancy Blue Dress_44
+      name: Purple Corset Long Sleeves_46
       rect:
         serializedVersion: 2
-        x: 575
-        y: 1
-        width: 13
+        x: 568
+        y: 0
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e367eddd40ca6de30800000000000000
+      internalID: 4527995612269803070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_47
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 21
         height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1256,19 +1319,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 395402b0e4d56fd50800000000000000
-      internalID: 6770701679573616019
+      spriteID: 5e06c14e3f07de450800000000000000
+      internalID: 6119671661472800997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fancy Blue Dress_45
+      name: Purple Corset Long Sleeves_48
       rect:
         serializedVersion: 2
-        x: 584
+        x: 728
         y: 0
-        width: 20
+        width: 27
         height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1278,96 +1341,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c00c9b2fc447aebf0800000000000000
-      internalID: -294294951800750068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_46
-      rect:
-        serializedVersion: 2
-        x: 655
-        y: 1
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c961317bead15a460800000000000000
-      internalID: 7252235411183048348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_47
-      rect:
-        serializedVersion: 2
-        x: 664
-        y: 0
-        width: 20
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2eed6bab9b69ff560800000000000000
-      internalID: 7349758841337601762
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_48
-      rect:
-        serializedVersion: 2
-        x: 735
-        y: 2
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 85311fe8d25a826c0800000000000000
-      internalID: -4167899840041118888
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fancy Blue Dress_49
-      rect:
-        serializedVersion: 2
-        x: 744
-        y: 0
-        width: 20
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f47c6aa93cba48320800000000000000
-      internalID: 2559359344854878031
+      spriteID: 09a5b4e241ccfe650800000000000000
+      internalID: 6264449993743751824
       vertices: []
       indices: 
       edges: []
@@ -1386,56 +1361,55 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Fancy Blue Dress_0: 8666471141821985070
-      Fancy Blue Dress_1: -4337390201967332526
-      Fancy Blue Dress_10: 6029311261936374316
-      Fancy Blue Dress_11: 6796918735197406350
-      Fancy Blue Dress_12: -4622216825121056588
-      Fancy Blue Dress_13: -378106269967042401
-      Fancy Blue Dress_14: 8340662085376259071
-      Fancy Blue Dress_15: 1818843909376789733
-      Fancy Blue Dress_16: -8008158332199105123
-      Fancy Blue Dress_17: 649916884461512721
-      Fancy Blue Dress_18: -7146283912453379663
-      Fancy Blue Dress_19: 6859015171552165063
-      Fancy Blue Dress_2: 7629756076450395346
-      Fancy Blue Dress_20: 7851573353201905165
-      Fancy Blue Dress_21: 21975009277638036
-      Fancy Blue Dress_22: 5874175186121228025
-      Fancy Blue Dress_23: -1795859060214891813
-      Fancy Blue Dress_24: 5191043273798430816
-      Fancy Blue Dress_25: -8951269579793061370
-      Fancy Blue Dress_26: 7803056669647075751
-      Fancy Blue Dress_27: -4153612589896456330
-      Fancy Blue Dress_28: -7967039682004238225
-      Fancy Blue Dress_29: -2063733220968422966
-      Fancy Blue Dress_3: 222794010325266655
-      Fancy Blue Dress_30: 6222069437970241541
-      Fancy Blue Dress_31: -6153938202730627553
-      Fancy Blue Dress_32: 3945804712844319995
-      Fancy Blue Dress_33: 6828114768422563407
-      Fancy Blue Dress_34: 3656645231900297067
-      Fancy Blue Dress_35: 3873776691580695166
-      Fancy Blue Dress_36: 8916347949465990998
-      Fancy Blue Dress_37: -3583992921076313257
-      Fancy Blue Dress_38: 4828126237874195034
-      Fancy Blue Dress_39: -6801258414088051345
-      Fancy Blue Dress_4: -1321271582356169825
-      Fancy Blue Dress_40: 4055812137896764625
-      Fancy Blue Dress_41: 8982868096391100145
-      Fancy Blue Dress_42: -8457541298806146038
-      Fancy Blue Dress_43: 4751354952751499843
-      Fancy Blue Dress_44: 6770701679573616019
-      Fancy Blue Dress_45: -294294951800750068
-      Fancy Blue Dress_46: 7252235411183048348
-      Fancy Blue Dress_47: 7349758841337601762
-      Fancy Blue Dress_48: -4167899840041118888
-      Fancy Blue Dress_49: 2559359344854878031
-      Fancy Blue Dress_5: 3073956757300409764
-      Fancy Blue Dress_6: -3005227571023157408
-      Fancy Blue Dress_7: 2068325682888732109
-      Fancy Blue Dress_8: -1014327169042099468
-      Fancy Blue Dress_9: 4656685115773036194
+      Purple Corset Long Sleeves_0: -6641646230105007534
+      Purple Corset Long Sleeves_1: 934667230817789572
+      Purple Corset Long Sleeves_10: 2045848778681733297
+      Purple Corset Long Sleeves_11: 5566497606504585261
+      Purple Corset Long Sleeves_12: 2559590644481046371
+      Purple Corset Long Sleeves_13: -6598225728861123864
+      Purple Corset Long Sleeves_14: 7602519384551550074
+      Purple Corset Long Sleeves_15: 1656670297149860811
+      Purple Corset Long Sleeves_16: 3403885949213491593
+      Purple Corset Long Sleeves_17: 4967395931113973852
+      Purple Corset Long Sleeves_18: -7043136435077205141
+      Purple Corset Long Sleeves_19: 6141942373947158821
+      Purple Corset Long Sleeves_2: 3941036723183193198
+      Purple Corset Long Sleeves_20: 4877089542151838142
+      Purple Corset Long Sleeves_21: -1429026444102009466
+      Purple Corset Long Sleeves_22: 7849668909668346442
+      Purple Corset Long Sleeves_23: 6351490485329421250
+      Purple Corset Long Sleeves_24: 1996185525842001272
+      Purple Corset Long Sleeves_25: -2428642380778958972
+      Purple Corset Long Sleeves_26: 4605048059457476635
+      Purple Corset Long Sleeves_27: -4204395367710224554
+      Purple Corset Long Sleeves_28: 1900495459170970165
+      Purple Corset Long Sleeves_29: 1568944697485209415
+      Purple Corset Long Sleeves_3: -9076637714784754151
+      Purple Corset Long Sleeves_30: -53548598812542170
+      Purple Corset Long Sleeves_31: 764711189926198290
+      Purple Corset Long Sleeves_32: 726421580273357534
+      Purple Corset Long Sleeves_33: 5006030268009600451
+      Purple Corset Long Sleeves_34: -6793804877460538273
+      Purple Corset Long Sleeves_35: -3957511859871214152
+      Purple Corset Long Sleeves_36: 4338640553606899439
+      Purple Corset Long Sleeves_37: -690084786574563830
+      Purple Corset Long Sleeves_38: 7310830398262160036
+      Purple Corset Long Sleeves_39: 129719481635310770
+      Purple Corset Long Sleeves_4: 1944695996131790284
+      Purple Corset Long Sleeves_40: 5796232316622307044
+      Purple Corset Long Sleeves_41: -1124443577328388471
+      Purple Corset Long Sleeves_42: 5100474946411776075
+      Purple Corset Long Sleeves_43: -4205919955719786690
+      Purple Corset Long Sleeves_44: 6518734978652468604
+      Purple Corset Long Sleeves_45: -8900649292276244461
+      Purple Corset Long Sleeves_46: 4527995612269803070
+      Purple Corset Long Sleeves_47: 6119671661472800997
+      Purple Corset Long Sleeves_48: 6264449993743751824
+      Purple Corset Long Sleeves_5: -5413938500873210005
+      Purple Corset Long Sleeves_6: -7982913606474823495
+      Purple Corset Long Sleeves_7: 6546356748596662777
+      Purple Corset Long Sleeves_8: -9062591142651410629
+      Purple Corset Long Sleeves_9: 5062261231744904355
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

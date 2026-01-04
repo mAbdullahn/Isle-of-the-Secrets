@@ -1,154 +1,142 @@
 fileFormatVersion: 2
-guid: 044dcdcf363b91441a2eb13501c159dc
+guid: 2ebeeca5ef19f6344a2dfd84006e1717
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6641646230105007534
-    second: Purple Corset Long Sleeves_0
+      213: 3725627876854875849
+    second: Short Skirt_0
   - first:
-      213: 934667230817789572
-    second: Purple Corset Long Sleeves_1
+      213: 8282506200285690737
+    second: Short Skirt_1
   - first:
-      213: 3941036723183193198
-    second: Purple Corset Long Sleeves_2
+      213: -4374327597911553885
+    second: Short Skirt_2
   - first:
-      213: -9076637714784754151
-    second: Purple Corset Long Sleeves_3
+      213: 630675441141210989
+    second: Short Skirt_3
   - first:
-      213: 1944695996131790284
-    second: Purple Corset Long Sleeves_4
+      213: -614139148484272532
+    second: Short Skirt_4
   - first:
-      213: -5413938500873210005
-    second: Purple Corset Long Sleeves_5
+      213: 8336538867446468563
+    second: Short Skirt_5
   - first:
-      213: -7982913606474823495
-    second: Purple Corset Long Sleeves_6
+      213: 7338437302691004461
+    second: Short Skirt_6
   - first:
-      213: 6546356748596662777
-    second: Purple Corset Long Sleeves_7
+      213: 8116158742993444637
+    second: Short Skirt_7
   - first:
-      213: -9062591142651410629
-    second: Purple Corset Long Sleeves_8
+      213: -2879608229610224437
+    second: Short Skirt_8
   - first:
-      213: 5062261231744904355
-    second: Purple Corset Long Sleeves_9
+      213: -8863664510957976445
+    second: Short Skirt_9
   - first:
-      213: 2045848778681733297
-    second: Purple Corset Long Sleeves_10
+      213: 5555313181723076293
+    second: Short Skirt_10
   - first:
-      213: 5566497606504585261
-    second: Purple Corset Long Sleeves_11
+      213: 730454115766670110
+    second: Short Skirt_11
   - first:
-      213: 2559590644481046371
-    second: Purple Corset Long Sleeves_12
+      213: -8777297131025081770
+    second: Short Skirt_12
   - first:
-      213: -6598225728861123864
-    second: Purple Corset Long Sleeves_13
+      213: 8650768235798329345
+    second: Short Skirt_13
   - first:
-      213: 7602519384551550074
-    second: Purple Corset Long Sleeves_14
+      213: 3059465954329184288
+    second: Short Skirt_14
   - first:
-      213: 1656670297149860811
-    second: Purple Corset Long Sleeves_15
+      213: 4739740466398914507
+    second: Short Skirt_15
   - first:
-      213: 3403885949213491593
-    second: Purple Corset Long Sleeves_16
+      213: 3790236963741525098
+    second: Short Skirt_16
   - first:
-      213: 4967395931113973852
-    second: Purple Corset Long Sleeves_17
+      213: 1988493323941621692
+    second: Short Skirt_17
   - first:
-      213: -7043136435077205141
-    second: Purple Corset Long Sleeves_18
+      213: 6665922613697483452
+    second: Short Skirt_18
   - first:
-      213: 6141942373947158821
-    second: Purple Corset Long Sleeves_19
+      213: -8994018411633000011
+    second: Short Skirt_19
   - first:
-      213: 4877089542151838142
-    second: Purple Corset Long Sleeves_20
+      213: 5347969110020076711
+    second: Short Skirt_20
   - first:
-      213: -1429026444102009466
-    second: Purple Corset Long Sleeves_21
+      213: -7828335866617770892
+    second: Short Skirt_21
   - first:
-      213: 7849668909668346442
-    second: Purple Corset Long Sleeves_22
+      213: -9065285832647215919
+    second: Short Skirt_22
   - first:
-      213: 6351490485329421250
-    second: Purple Corset Long Sleeves_23
+      213: 7659917656502181203
+    second: Short Skirt_23
   - first:
-      213: 1996185525842001272
-    second: Purple Corset Long Sleeves_24
+      213: -1787193905461236568
+    second: Short Skirt_24
   - first:
-      213: -2428642380778958972
-    second: Purple Corset Long Sleeves_25
+      213: -1218492087013725272
+    second: Short Skirt_25
   - first:
-      213: 4605048059457476635
-    second: Purple Corset Long Sleeves_26
+      213: 617914219725110163
+    second: Short Skirt_26
   - first:
-      213: -4204395367710224554
-    second: Purple Corset Long Sleeves_27
+      213: 4723508287019943268
+    second: Short Skirt_27
   - first:
-      213: 1900495459170970165
-    second: Purple Corset Long Sleeves_28
+      213: -2807714216874304526
+    second: Short Skirt_28
   - first:
-      213: 1568944697485209415
-    second: Purple Corset Long Sleeves_29
+      213: 2427581760545711315
+    second: Short Skirt_29
   - first:
-      213: -53548598812542170
-    second: Purple Corset Long Sleeves_30
+      213: 3811651565848938754
+    second: Short Skirt_30
   - first:
-      213: 764711189926198290
-    second: Purple Corset Long Sleeves_31
+      213: 1404873553282365348
+    second: Short Skirt_31
   - first:
-      213: 726421580273357534
-    second: Purple Corset Long Sleeves_32
+      213: 6119027993956610693
+    second: Short Skirt_32
   - first:
-      213: 5006030268009600451
-    second: Purple Corset Long Sleeves_33
+      213: -4369592292199535928
+    second: Short Skirt_33
   - first:
-      213: -6793804877460538273
-    second: Purple Corset Long Sleeves_34
+      213: -5876799956143189957
+    second: Short Skirt_34
   - first:
-      213: -3957511859871214152
-    second: Purple Corset Long Sleeves_35
+      213: -6199867797516133210
+    second: Short Skirt_35
   - first:
-      213: 4338640553606899439
-    second: Purple Corset Long Sleeves_36
+      213: -7930650178337486450
+    second: Short Skirt_36
   - first:
-      213: -690084786574563830
-    second: Purple Corset Long Sleeves_37
+      213: 1317827721900204975
+    second: Short Skirt_37
   - first:
-      213: 7310830398262160036
-    second: Purple Corset Long Sleeves_38
+      213: -5989190525675020793
+    second: Short Skirt_38
   - first:
-      213: 129719481635310770
-    second: Purple Corset Long Sleeves_39
+      213: 5638925646088944099
+    second: Short Skirt_39
   - first:
-      213: 5796232316622307044
-    second: Purple Corset Long Sleeves_40
+      213: -1105599871901551327
+    second: Short Skirt_40
   - first:
-      213: -1124443577328388471
-    second: Purple Corset Long Sleeves_41
+      213: 152524903843171486
+    second: Short Skirt_41
   - first:
-      213: 5100474946411776075
-    second: Purple Corset Long Sleeves_42
+      213: 1969902165248338923
+    second: Short Skirt_42
   - first:
-      213: -4205919955719786690
-    second: Purple Corset Long Sleeves_43
+      213: 3579594687376171640
+    second: Short Skirt_43
   - first:
-      213: 6518734978652468604
-    second: Purple Corset Long Sleeves_44
-  - first:
-      213: -8900649292276244461
-    second: Purple Corset Long Sleeves_45
-  - first:
-      213: 4527995612269803070
-    second: Purple Corset Long Sleeves_46
-  - first:
-      213: 6119671661472800997
-    second: Purple Corset Long Sleeves_47
-  - first:
-      213: 6264449993743751824
-    second: Purple Corset Long Sleeves_48
+      213: -1559542088496635378
+    second: Short Skirt_44
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -181,7 +169,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -195,7 +183,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -270,299 +258,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Purple Corset Long Sleeves_0
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 398
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 25a57c251f124d3a0800000000000000
-      internalID: -6641646230105007534
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_1
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 398
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 486a714f4ea98fc00800000000000000
-      internalID: 934667230817789572
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_2
-      rect:
-        serializedVersion: 2
-        x: 193
-        y: 398
-        width: 15
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e6c8a1ce40061b630800000000000000
-      internalID: 3941036723183193198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_3
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 398
-        width: 15
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9166757a61e490280800000000000000
-      internalID: -9076637714784754151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_4
-      rect:
-        serializedVersion: 2
-        x: 353
-        y: 398
-        width: 15
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ccd4f8d74b2fcfa10800000000000000
-      internalID: 1944695996131790284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_5
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 334
-        width: 13
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b6734a32e93ddd4b0800000000000000
-      internalID: -5413938500873210005
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_6
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 334
-        width: 13
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b88f65ce5ef63190800000000000000
-      internalID: -7982913606474823495
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_7
-      rect:
-        serializedVersion: 2
-        x: 193
-        y: 334
-        width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9f1d51d57c459da50800000000000000
-      internalID: 6546356748596662777
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_8
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 335
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b3749a51f553b3280800000000000000
-      internalID: -9062591142651410629
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_9
-      rect:
-        serializedVersion: 2
-        x: 353
-        y: 334
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3ace26ee4c3c04640800000000000000
-      internalID: 5062261231744904355
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_10
-      rect:
-        serializedVersion: 2
-        x: 433
-        y: 334
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1b0dd75ff90546c10800000000000000
-      internalID: 2045848778681733297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_11
-      rect:
-        serializedVersion: 2
-        x: 513
-        y: 334
-        width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d2894ce941c204d40800000000000000
-      internalID: 5566497606504585261
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_12
-      rect:
-        serializedVersion: 2
-        x: 593
-        y: 335
-        width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 367b4be312e758320800000000000000
-      internalID: 2559590644481046371
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_13
+      name: Short Skirt_0
       rect:
         serializedVersion: 2
         x: 32
-        y: 271
-        width: 13
-        height: 15
+        y: 391
+        width: 18
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -571,19 +273,129 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8eac36398a46e64a0800000000000000
-      internalID: -6598225728861123864
+      spriteID: 9c64a3590d614b330800000000000000
+      internalID: 3725627876854875849
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Purple Corset Long Sleeves_14
+      name: Short Skirt_1
       rect:
         serializedVersion: 2
         x: 112
-        y: 273
-        width: 13
+        y: 391
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bbffda18f51f270800000000000000
+      internalID: 8282506200285690737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 391
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a84b43d9344b43c0800000000000000
+      internalID: -4374327597911553885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 391
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fd8c5e8fb90c800800000000000000
+      internalID: 630675441141210989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 391
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e1fe3c2b32a77f0800000000000000
+      internalID: -614139148484272532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 327
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df426a5ee551b370800000000000000
+      internalID: 8336538867446468563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 327
+        width: 18
         height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -593,20 +405,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7c6732b913918960800000000000000
-      internalID: 7602519384551550074
+      spriteID: d208f5998dd57d560800000000000000
+      internalID: 7338437302691004461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Purple Corset Long Sleeves_15
+      name: Short Skirt_7
       rect:
         serializedVersion: 2
         x: 192
-        y: 270
-        width: 14
-        height: 15
+        y: 328
+        width: 18
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -615,20 +427,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bcbee8b9bdcadf610800000000000000
-      internalID: 1656670297149860811
+      spriteID: d1f1ec0206362a070800000000000000
+      internalID: 8116158742993444637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Purple Corset Long Sleeves_16
+      name: Short Skirt_8
       rect:
         serializedVersion: 2
-        x: 272
-        y: 271
+        x: 273
+        y: 328
         width: 15
-        height: 15
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -637,18 +449,282 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 98140da7c380d3f20800000000000000
-      internalID: 3403885949213491593
+      spriteID: bc48acd62939908d0800000000000000
+      internalID: -2879608229610224437
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Purple Corset Long Sleeves_17
+      name: Short Skirt_9
       rect:
         serializedVersion: 2
-        x: 352
-        y: 271
+        x: 351
+        y: 327
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3840d18c610fdf480800000000000000
+      internalID: -8863664510957976445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 327
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c626acc7ef681d40800000000000000
+      internalID: 5555313181723076293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_11
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 328
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e139efee528132a00800000000000000
+      internalID: 730454115766670110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 328
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ad13173c6c03680800000000000000
+      internalID: -8777297131025081770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 264
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108fdf070e3bd0870800000000000000
+      internalID: 8650768235798329345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 264
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02841326318657a20800000000000000
+      internalID: 3059465954329184288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 264
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7604b87d0f6c140800000000000000
+      internalID: 4739740466398914507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 264
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a646e5edf60a99430800000000000000
+      internalID: 3790236963741525098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 264
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfa6c3842c889b10800000000000000
+      internalID: 1988493323941621692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_18
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 264
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb29ea1bc4d128c50800000000000000
+      internalID: 6665922613697483452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 264
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1ca4f28e3de2380800000000000000
+      internalID: -8994018411633000011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_20
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 264
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a43280229dc73a40800000000000000
+      internalID: 5347969110020076711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 201
         width: 17
         height: 15
       alignment: 0
@@ -659,19 +735,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c58e4cce74cbfe440800000000000000
-      internalID: 4967395931113973852
+      spriteID: 47c4ccf610a2c5390800000000000000
+      internalID: -7828335866617770892
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Purple Corset Long Sleeves_18
+      name: Short Skirt_22
       rect:
         serializedVersion: 2
-        x: 432
-        y: 270
-        width: 15
+        x: 112
+        y: 201
+        width: 16
         height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -681,262 +757,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b63bc9a7ab0c14e90800000000000000
-      internalID: -7043136435077205141
+      spriteID: 1d47eada092a13280800000000000000
+      internalID: -9065285832647215919
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Purple Corset Long Sleeves_19
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 270
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5213a063c009c3550800000000000000
-      internalID: 6141942373947158821
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_20
-      rect:
-        serializedVersion: 2
-        x: 592
-        y: 272
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eb99bb14917eea340800000000000000
-      internalID: 4877089542151838142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_21
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 209
-        width: 19
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 68df8a835041b2ce0800000000000000
-      internalID: -1429026444102009466
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_22
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 209
-        width: 19
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a4aa535b840afec60800000000000000
-      internalID: 7849668909668346442
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_23
-      rect:
-        serializedVersion: 2
-        x: 190
-        y: 209
-        width: 19
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2c3655cd1f6052850800000000000000
-      internalID: 6351490485329421250
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_24
-      rect:
-        serializedVersion: 2
-        x: 270
-        y: 209
-        width: 20
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 87db695d820e3bb10800000000000000
-      internalID: 1996185525842001272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_25
-      rect:
-        serializedVersion: 2
-        x: 29
-        y: 157
-        width: 6
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 48f06374f9abb4ed0800000000000000
-      internalID: -2428642380778958972
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_26
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 143
-        width: 18
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b18909dbfca68ef30800000000000000
-      internalID: 4605048059457476635
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_27
-      rect:
-        serializedVersion: 2
-        x: 109
-        y: 157
-        width: 6
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 65f855c50bcf6a5c0800000000000000
-      internalID: -4204395367710224554
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_28
-      rect:
-        serializedVersion: 2
-        x: 111
-        y: 143
-        width: 18
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 53ae0250d8aef5a10800000000000000
-      internalID: 1900495459170970165
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_29
-      rect:
-        serializedVersion: 2
-        x: 189
-        y: 157
-        width: 6
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 74fa6d5c3e206c510800000000000000
-      internalID: 1568944697485209415
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_30
+      name: Short Skirt_23
       rect:
         serializedVersion: 2
         x: 191
-        y: 143
-        width: 18
-        height: 26
+        y: 201
+        width: 17
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -945,63 +779,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 62bfe8545d1c14ff0800000000000000
-      internalID: -53548598812542170
+      spriteID: 35d1e8c468e7d4a60800000000000000
+      internalID: 7659917656502181203
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Purple Corset Long Sleeves_31
-      rect:
-        serializedVersion: 2
-        x: 269
-        y: 157
-        width: 6
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 21c315f86cccc9a00800000000000000
-      internalID: 764711189926198290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_32
+      name: Short Skirt_24
       rect:
         serializedVersion: 2
         x: 271
-        y: 143
+        y: 201
         width: 18
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed21f591494c41a00800000000000000
-      internalID: 726421580273357534
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_33
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 78
-        width: 15
         height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1011,85 +801,107 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3c5d093710ef87540800000000000000
-      internalID: 5006030268009600451
+      spriteID: 8ac6d38ac9c9237e0800000000000000
+      internalID: -1787193905461236568
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Purple Corset Long Sleeves_34
+      name: Short Skirt_25
       rect:
         serializedVersion: 2
-        x: 114
-        y: 78
+        x: 23
+        y: 140
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab2ce717eb071fe0800000000000000
+      internalID: -1218492087013725272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 140
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bb06085b5439800800000000000000
+      internalID: 617914219725110163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_27
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 140
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4650075c2c54d8140800000000000000
+      internalID: 4723508287019943268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_28
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 140
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb9460bbcef809d0800000000000000
+      internalID: -2807714216874304526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 71
         width: 18
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f5cf5a5857e87b1a0800000000000000
-      internalID: -6793804877460538273
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_35
-      rect:
-        serializedVersion: 2
-        x: 196
-        y: 79
-        width: 20
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8b51bf56ee71419c0800000000000000
-      internalID: -3957511859871214152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_36
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 79
-        width: 20
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fe6e7dda892f53c30800000000000000
-      internalID: 4338640553606899439
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_37
-      rect:
-        serializedVersion: 2
-        x: 351
-        y: 78
-        width: 14
         height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1099,19 +911,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a066257fa835c66f0800000000000000
-      internalID: -690084786574563830
+      spriteID: 3d46b84dfb080b120800000000000000
+      internalID: 2427581760545711315
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Purple Corset Long Sleeves_38
+      name: Short Skirt_30
       rect:
         serializedVersion: 2
-        x: 432
-        y: 78
-        width: 13
+        x: 112
+        y: 71
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209ccf577e4b5e430800000000000000
+      internalID: 3811651565848938754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_31
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 71
+        width: 17
         height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1121,20 +955,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4aa2b854389457560800000000000000
-      internalID: 7310830398262160036
+      spriteID: 4a77cb9ad0d1f7310800000000000000
+      internalID: 1404873553282365348
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Purple Corset Long Sleeves_39
+      name: Short Skirt_32
       rect:
         serializedVersion: 2
-        x: 33
-        y: 14
-        width: 15
-        height: 15
+        x: 274
+        y: 71
+        width: 17
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1143,42 +977,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2bc02576e2bdcc100800000000000000
-      internalID: 129719481635310770
+      spriteID: 582747e5a872be450800000000000000
+      internalID: 6119027993956610693
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Purple Corset Long Sleeves_40
+      name: Short Skirt_33
       rect:
         serializedVersion: 2
-        x: 111
-        y: 12
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4ee79eb059a507050800000000000000
-      internalID: 5796232316622307044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_41
-      rect:
-        serializedVersion: 2
-        x: 188
-        y: 6
+        x: 353
+        y: 71
         width: 16
-        height: 15
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1187,108 +999,108 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9863f53268c2560f0800000000000000
-      internalID: -1124443577328388471
+      spriteID: 8ca692a16f61c53c0800000000000000
+      internalID: -4369592292199535928
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Purple Corset Long Sleeves_42
+      name: Short Skirt_34
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 71
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30dd069399617ea0800000000000000
+      internalID: -5876799956143189957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 7
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acdaa22615a5f9a0800000000000000
+      internalID: -6199867797516133210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_36
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 5
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e894e426eaba0f190800000000000000
+      internalID: -7930650178337486450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_37
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa32607b45dd94210800000000000000
+      internalID: 1317827721900204975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_38
       rect:
         serializedVersion: 2
         x: 268
-        y: 5
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b4847a6b0f688c640800000000000000
-      internalID: 5100474946411776075
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_43
-      rect:
-        serializedVersion: 2
-        x: 348
-        y: 6
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e3f689d851291a5c0800000000000000
-      internalID: -4205919955719786690
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_44
-      rect:
-        serializedVersion: 2
-        x: 425
-        y: 5
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c757e73ece2377a50800000000000000
-      internalID: 6518734978652468604
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_45
-      rect:
-        serializedVersion: 2
-        x: 503
-        y: 4
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 310ea8750aa8a7480800000000000000
-      internalID: -8900649292276244461
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Purple Corset Long Sleeves_46
-      rect:
-        serializedVersion: 2
-        x: 568
         y: 0
-        width: 27
-        height: 19
+        width: 18
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1297,19 +1109,85 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e367eddd40ca6de30800000000000000
-      internalID: 4527995612269803070
+      spriteID: 70e5101f2fe12eca0800000000000000
+      internalID: -5989190525675020793
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Purple Corset Long Sleeves_47
+      name: Short Skirt_39
       rect:
         serializedVersion: 2
-        x: 654
+        x: 347
         y: 0
-        width: 21
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9b8f1bffc714e40800000000000000
+      internalID: 5638925646088944099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_40
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125379336ce18a0f0800000000000000
+      internalID: -1105599871901551327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_41
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c09f88790ed1200800000000000000
+      internalID: 152524903843171486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_42
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 0
+        width: 11
         height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1319,20 +1197,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e06c14e3f07de450800000000000000
-      internalID: 6119671661472800997
+      spriteID: beb66e1159f765b10800000000000000
+      internalID: 1969902165248338923
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Purple Corset Long Sleeves_48
+      name: Short Skirt_43
       rect:
         serializedVersion: 2
-        x: 728
+        x: 667
         y: 0
-        width: 27
-        height: 11
+        width: 10
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1341,8 +1219,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 09a5b4e241ccfe650800000000000000
-      internalID: 6264449993743751824
+      spriteID: 872aee417664da130800000000000000
+      internalID: 3579594687376171640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_44
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0223eabbb46b5ae0800000000000000
+      internalID: -1559542088496635378
       vertices: []
       indices: 
       edges: []
@@ -1361,55 +1261,51 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Purple Corset Long Sleeves_0: -6641646230105007534
-      Purple Corset Long Sleeves_1: 934667230817789572
-      Purple Corset Long Sleeves_10: 2045848778681733297
-      Purple Corset Long Sleeves_11: 5566497606504585261
-      Purple Corset Long Sleeves_12: 2559590644481046371
-      Purple Corset Long Sleeves_13: -6598225728861123864
-      Purple Corset Long Sleeves_14: 7602519384551550074
-      Purple Corset Long Sleeves_15: 1656670297149860811
-      Purple Corset Long Sleeves_16: 3403885949213491593
-      Purple Corset Long Sleeves_17: 4967395931113973852
-      Purple Corset Long Sleeves_18: -7043136435077205141
-      Purple Corset Long Sleeves_19: 6141942373947158821
-      Purple Corset Long Sleeves_2: 3941036723183193198
-      Purple Corset Long Sleeves_20: 4877089542151838142
-      Purple Corset Long Sleeves_21: -1429026444102009466
-      Purple Corset Long Sleeves_22: 7849668909668346442
-      Purple Corset Long Sleeves_23: 6351490485329421250
-      Purple Corset Long Sleeves_24: 1996185525842001272
-      Purple Corset Long Sleeves_25: -2428642380778958972
-      Purple Corset Long Sleeves_26: 4605048059457476635
-      Purple Corset Long Sleeves_27: -4204395367710224554
-      Purple Corset Long Sleeves_28: 1900495459170970165
-      Purple Corset Long Sleeves_29: 1568944697485209415
-      Purple Corset Long Sleeves_3: -9076637714784754151
-      Purple Corset Long Sleeves_30: -53548598812542170
-      Purple Corset Long Sleeves_31: 764711189926198290
-      Purple Corset Long Sleeves_32: 726421580273357534
-      Purple Corset Long Sleeves_33: 5006030268009600451
-      Purple Corset Long Sleeves_34: -6793804877460538273
-      Purple Corset Long Sleeves_35: -3957511859871214152
-      Purple Corset Long Sleeves_36: 4338640553606899439
-      Purple Corset Long Sleeves_37: -690084786574563830
-      Purple Corset Long Sleeves_38: 7310830398262160036
-      Purple Corset Long Sleeves_39: 129719481635310770
-      Purple Corset Long Sleeves_4: 1944695996131790284
-      Purple Corset Long Sleeves_40: 5796232316622307044
-      Purple Corset Long Sleeves_41: -1124443577328388471
-      Purple Corset Long Sleeves_42: 5100474946411776075
-      Purple Corset Long Sleeves_43: -4205919955719786690
-      Purple Corset Long Sleeves_44: 6518734978652468604
-      Purple Corset Long Sleeves_45: -8900649292276244461
-      Purple Corset Long Sleeves_46: 4527995612269803070
-      Purple Corset Long Sleeves_47: 6119671661472800997
-      Purple Corset Long Sleeves_48: 6264449993743751824
-      Purple Corset Long Sleeves_5: -5413938500873210005
-      Purple Corset Long Sleeves_6: -7982913606474823495
-      Purple Corset Long Sleeves_7: 6546356748596662777
-      Purple Corset Long Sleeves_8: -9062591142651410629
-      Purple Corset Long Sleeves_9: 5062261231744904355
+      Short Skirt_0: 3725627876854875849
+      Short Skirt_1: 8282506200285690737
+      Short Skirt_10: 5555313181723076293
+      Short Skirt_11: 730454115766670110
+      Short Skirt_12: -8777297131025081770
+      Short Skirt_13: 8650768235798329345
+      Short Skirt_14: 3059465954329184288
+      Short Skirt_15: 4739740466398914507
+      Short Skirt_16: 3790236963741525098
+      Short Skirt_17: 1988493323941621692
+      Short Skirt_18: 6665922613697483452
+      Short Skirt_19: -8994018411633000011
+      Short Skirt_2: -4374327597911553885
+      Short Skirt_20: 5347969110020076711
+      Short Skirt_21: -7828335866617770892
+      Short Skirt_22: -9065285832647215919
+      Short Skirt_23: 7659917656502181203
+      Short Skirt_24: -1787193905461236568
+      Short Skirt_25: -1218492087013725272
+      Short Skirt_26: 617914219725110163
+      Short Skirt_27: 4723508287019943268
+      Short Skirt_28: -2807714216874304526
+      Short Skirt_29: 2427581760545711315
+      Short Skirt_3: 630675441141210989
+      Short Skirt_30: 3811651565848938754
+      Short Skirt_31: 1404873553282365348
+      Short Skirt_32: 6119027993956610693
+      Short Skirt_33: -4369592292199535928
+      Short Skirt_34: -5876799956143189957
+      Short Skirt_35: -6199867797516133210
+      Short Skirt_36: -7930650178337486450
+      Short Skirt_37: 1317827721900204975
+      Short Skirt_38: -5989190525675020793
+      Short Skirt_39: 5638925646088944099
+      Short Skirt_4: -614139148484272532
+      Short Skirt_40: -1105599871901551327
+      Short Skirt_41: 152524903843171486
+      Short Skirt_42: 1969902165248338923
+      Short Skirt_43: 3579594687376171640
+      Short Skirt_44: -1559542088496635378
+      Short Skirt_5: 8336538867446468563
+      Short Skirt_6: 7338437302691004461
+      Short Skirt_7: 8116158742993444637
+      Short Skirt_8: -2879608229610224437
+      Short Skirt_9: -8863664510957976445
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
