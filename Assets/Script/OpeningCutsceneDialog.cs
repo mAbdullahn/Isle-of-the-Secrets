@@ -77,6 +77,7 @@ public class OpeningCutsceneDialog : MonoBehaviour
         characterName.text = "alex";
         StartTypewriter("I'll stand by your side, no matter what.");
     }
+
     private void StartTypewriter(string fullText)
     {
         if (typingCoroutine != null)
