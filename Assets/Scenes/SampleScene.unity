@@ -190,140 +190,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.Timeline::UnityEngine.Timeline.SignalReceiver
   m_Events:
     m_Signals:
-    - {fileID: 11400000, guid: edd917e440321514298189f09fbda731, type: 2}
-    - {fileID: 11400000, guid: 6f51450ee524271489a1158669dc1acf, type: 2}
-    - {fileID: 11400000, guid: 7c50d3828d377584d82b5b24f8f8b781, type: 2}
-    - {fileID: 11400000, guid: dfaec704cdb5b4e418cdf78e1369ca88, type: 2}
-    - {fileID: 11400000, guid: 3b2dfd66a30e0354db75059a4c88b66c, type: 2}
-    - {fileID: 11400000, guid: 60ea9f75b548cd549ab7172f3c116e98, type: 2}
-    - {fileID: 11400000, guid: a176e628bbb6e244e93533be73bd279a, type: 2}
-    - {fileID: 11400000, guid: 0d0e8c5ec31a4014ba81fc08421ecaa6, type: 2}
-    - {fileID: 11400000, guid: e65f40458192bae42bacb68d11fd0504, type: 2}
+    - {fileID: 11400000, guid: c7950662b88ffd44ea5ed183f2638973, type: 2}
     m_Events:
     - m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 165973040}
-          m_TargetAssemblyTypeName: OpeningCutsceneDialog, Assembly-CSharp
-          m_MethodName: Line1
-          m_Mode: 1
+          m_TargetAssemblyTypeName: OpeningCutscene, Assembly-CSharp
+          m_MethodName: PlayOpeningDialog
+          m_Mode: 5
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-    - m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 165973040}
-          m_TargetAssemblyTypeName: OpeningCutsceneDialog, Assembly-CSharp
-          m_MethodName: Line2
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-    - m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 165973040}
-          m_TargetAssemblyTypeName: OpeningCutsceneDialog, Assembly-CSharp
-          m_MethodName: Line3
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-    - m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 165973040}
-          m_TargetAssemblyTypeName: OpeningCutsceneDialog, Assembly-CSharp
-          m_MethodName: Line4
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-    - m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 165973040}
-          m_TargetAssemblyTypeName: OpeningCutsceneDialog, Assembly-CSharp
-          m_MethodName: Line5
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-    - m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 165973040}
-          m_TargetAssemblyTypeName: OpeningCutsceneDialog, Assembly-CSharp
-          m_MethodName: Line6
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-    - m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 165973040}
-          m_TargetAssemblyTypeName: OpeningCutsceneDialog, Assembly-CSharp
-          m_MethodName: Line7
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-    - m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 165973040}
-          m_TargetAssemblyTypeName: OpeningCutsceneDialog, Assembly-CSharp
-          m_MethodName: Line8
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-    - m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 165973040}
-          m_TargetAssemblyTypeName: OpeningCutsceneDialog, Assembly-CSharp
-          m_MethodName: Line9
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
+            m_StringArgument: opening_game_intro
             m_BoolArgument: 0
           m_CallState: 2
 --- !u!114 &165973040
@@ -335,21 +215,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 165973035}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b0786ebf024bb5b44ab8a50305eec2e4, type: 3}
+  m_Script: {fileID: 11500000, guid: cba463d2fc302604698d4d6f3736c4fa, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::OpeningCutsceneDialog
-  characterName: {fileID: 2060412777}
-  dialog: {fileID: 853283214}
-  typingSpeed: 0.03
-  potraitCollection:
-  - {fileID: -4275571527639136654, guid: c081118d747a92f419f05f59ae4537f5, type: 3}
-  - {fileID: 6899091795806377214, guid: c081118d747a92f419f05f59ae4537f5, type: 3}
-  - {fileID: 2438310042020129848, guid: c081118d747a92f419f05f59ae4537f5, type: 3}
-  - {fileID: 1108400416605241956, guid: a950735d90a56d544ba967442f0d7b04, type: 3}
-  - {fileID: -1444474207948124974, guid: a950735d90a56d544ba967442f0d7b04, type: 3}
-  - {fileID: -1335882387233325874, guid: a950735d90a56d544ba967442f0d7b04, type: 3}
-  Potrait: {fileID: 285042046}
-  dialogpanel: {fileID: 1482440343}
+  m_EditorClassIdentifier: Assembly-CSharp::OpeningCutscene
+  panel: {fileID: 1482440343}
+  nameText: {fileID: 2060412777}
+  dialogText: {fileID: 853283214}
+  portraitImage: {fileID: 285042046}
+  dialogJSON: {fileID: 4900000, guid: 3b54fb930e953e445b55d4224e07bc44, type: 3}
 --- !u!1 &173936161
 GameObject:
   m_ObjectHideFlags: 0
@@ -383,10 +256,10 @@ RectTransform:
   - {fileID: 285042047}
   m_Father: {fileID: 1482440344}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
+  m_AnchorMin: {x: 0, y: 0.3}
+  m_AnchorMax: {x: 0.16931581, y: 1}
   m_AnchoredPosition: {x: -1, y: 0}
-  m_SizeDelta: {x: 259, y: 200}
+  m_SizeDelta: {x: 4, y: 4}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &173936163
 MonoBehaviour:
@@ -483,7 +356,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -4275571527639136654, guid: c081118d747a92f419f05f59ae4537f5, type: 3}
+  m_Sprite: {fileID: 3460562292759986853, guid: a950735d90a56d544ba967442f0d7b04, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -535,9 +408,9 @@ RectTransform:
   m_Father: {fileID: 1482440344}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 0.16931581, y: 0.3}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 259, y: 90}
+  m_SizeDelta: {x: 2, y: 6}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &324823696
 MonoBehaviour:
@@ -625,12 +498,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.CanvasScaler
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 0.5
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -998,10 +871,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1482440344}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchorMin: {x: 0.18221053, y: 0.05714284}
+  m_AnchorMax: {x: 1, y: 0.9142861}
+  m_AnchoredPosition: {x: -138.5, y: 4}
+  m_SizeDelta: {x: -1045, y: -190}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &853283214
 MonoBehaviour:
@@ -1183,6 +1056,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!483693784 &886840320
 TilemapRenderer:
+  serializedVersion: 2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -1228,6 +1102,7 @@ TilemapRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 1.21, y: 0.39999998, z: 0}
   m_MaxChunkCount: 16
@@ -1235,7 +1110,6 @@ TilemapRenderer:
   m_SortOrder: 0
   m_Mode: 0
   m_DetectChunkCullingBounds: 0
-  m_MaskInteraction: 0
 --- !u!1839735485 &886840321
 Tilemap:
   m_ObjectHideFlags: 0
@@ -1799,7 +1673,7 @@ Tilemap:
       - {fileID: -7132669163416460373, guid: 86eff8cf08a8bee48b4329633be5dd06, type: 3}
       - {fileID: 6370453195999478338, guid: 903d6f56692afc449889fc2cfc04d0b2, type: 3}
       - {fileID: -7173205173674115939, guid: 828ae5db1e441d5479c34857f8cda90e, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: -3, y: -6, z: 0}
@@ -2107,7 +1981,7 @@ Tilemap:
       - {fileID: -7132669163416460373, guid: 86eff8cf08a8bee48b4329633be5dd06, type: 3}
       - {fileID: 6370453195999478338, guid: 903d6f56692afc449889fc2cfc04d0b2, type: 3}
       - {fileID: -7173205173674115939, guid: 828ae5db1e441d5479c34857f8cda90e, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: -5, y: 2, z: 0}
@@ -2916,11 +2790,11 @@ RectTransform:
   - {fileID: 853283213}
   m_Father: {fileID: 410756028}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -400}
-  m_SizeDelta: {x: -400, y: -800}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 1520, y: 280}
+  m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1482440345
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2934,7 +2808,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.18431373}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.78431374}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -2994,7 +2868,7 @@ GameObject:
   m_IsActive: 1
 --- !u!199 &1558933983
 ParticleSystemRenderer:
-  serializedVersion: 6
+  serializedVersion: 7
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -3040,6 +2914,7 @@ ParticleSystemRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 5
+  m_MaskInteraction: 0
   m_RenderMode: 0
   m_MeshDistribution: 0
   m_SortMode: 0
@@ -3071,7 +2946,6 @@ ParticleSystemRenderer:
   m_MeshWeighting1: 1
   m_MeshWeighting2: 1
   m_MeshWeighting3: 1
-  m_MaskInteraction: 0
 --- !u!198 &1558933984
 ParticleSystem:
   m_ObjectHideFlags: 0
@@ -7830,6 +7704,7 @@ GameObject:
   m_IsActive: 1
 --- !u!212 &1787532763
 SpriteRenderer:
+  serializedVersion: 2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -7875,6 +7750,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 1
   m_Sprite: {fileID: -866949802918695352, guid: 2d2a06a973aed834381a0d4cf066c62a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -7884,7 +7760,6 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 1
   m_SpriteSortPoint: 0
 --- !u!4 &1787532764
 Transform:
@@ -7982,6 +7857,7 @@ SpriteMask:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_Sprite: {fileID: -866949802918695352, guid: 2d2a06a973aed834381a0d4cf066c62a, type: 3}
   m_MaskAlphaCutoff: 0.027
   m_FrontSortingLayerID: 0

@@ -1,0 +1,117 @@
+{
+  "conversations": [
+    {
+      "id": "opening_game_intro",
+      "lines": [
+        {
+          "name": "Alex",
+          "dialog": "The sea suits you, Alice. You look radiant today.",
+          "duration": 8.0,
+          "portrait": "heroExpression_1"
+        },
+        {
+          "name": "Alice",
+          "dialog": "Oh, stop it... You're just saying that.",
+          "duration": 7.0,
+          "portrait": "wifeExpression_0"
+        },
+        {
+          "name": "Alex",
+          "dialog": "I mean it. I've traveled many places, but none compare to this moment... here, with you.",
+          "duration": 9.0,
+          "portrait": "heroExpression_1"
+        },
+        {
+          "name": "Alice",
+          "dialog": "You know... I've always dreamed of this. Sailing the open sea with you, my adventurer. Finally, we're doing it together!",
+          "duration": 11.0,
+          "portrait": "wifeExpression_2"
+        },
+        {
+          "name": "Alex",
+          "dialog": "Just don't blame me if we get seasick!",
+          "duration": 7.0,
+          "portrait": "heroExpression_2"
+        },
+        {
+          "name": "Alice",
+          "dialog": "Hey! I'm tougher than I look!",
+          "duration": 7.0,
+          "portrait": "wifeExpression_2"
+        },
+        {
+          "name": "Alex",
+          "dialog": "I know. That's why I love you.",
+          "duration": 7.0,
+          "portrait": "heroExpression_1"
+        },
+        {
+          "name": "Alice",
+          "dialog": "Alex... promise me something?",
+          "duration": 7.0,
+          "portrait": "wifeExpression_1"
+        },
+        {
+          "name": "Alex",
+          "dialog": "Anything.",
+          "duration": 7.0,
+          "portrait": "heroExpression_0"
+        },
+        {
+          "name": "Alice",
+          "dialog": "No matter what happens... we'll always be together. Right?",
+          "duration": 8.0,
+          "portrait": "wifeExpression_1"
+        },
+        {
+          "name": "Alex",
+          "dialog": "Always. I'll stand by your side, no matter what.",
+          "duration": 8.0,
+          "portrait": "heroExpression_0"
+        },
+        {
+          "name": "Alice",
+          "dialog": "Alex... the sky...",
+          "duration": 8.0,
+          "portrait": "wifeExpression_0"
+        },
+        {
+          "name": "Alex",
+          "dialog": "What the—? Those clouds came out of nowhere!",
+          "duration": 7.5,
+          "portrait": "heroExpression_5"
+        },
+        {
+          "name": "Alice",
+          "dialog": "A storm! Alex, it's coming so fast!",
+          "duration": 7.0,
+          "portrait": "wifeExpression_5"
+        },
+        {
+          "name": "Alex",
+          "dialog": "It's okay! We'll get through this! Just stay close to me!",
+          "duration": 8.0,
+          "portrait": "heroExpression_0"
+        },
+        {
+          "name": "Alice",
+          "dialog": "I'm scared! Alex, I don't want to—",
+          "duration": 8.0,
+          "portrait": "wifeExpression_5"
+        },
+        {
+          "name": "Alex",
+          "dialog": "Look at me! Alice, look at me! I promised, didn't I? I won't let anything happen to you!",
+          "duration": 1.0,
+          "portrait": "heroExpression_0"
+        },
+        {
+          "name": "Alice",
+          "dialog": "Alex...!",
+          "duration": 7.0,
+          "portrait": "wifeExpression_5"
+        }
+      ]
+    }
+  ]
+}
