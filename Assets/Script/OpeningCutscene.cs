@@ -96,12 +96,23 @@ public class OpeningCutscene : MonoBehaviour
 
         dialogText.text = "";
 
-        float timePerCharacter = duration / fullText.Length;
+        // Typewriter speed - fixed at 2.5 seconds regardless of text length
+        float typewriterDuration = 2.5f;
+        float timePerCharacter = typewriterDuration / fullText.Length;
 
+        // Type out the text
         foreach (char c in fullText)
         {
             dialogText.text += c;
             yield return new WaitForSeconds(timePerCharacter);
+        }
+
+        // Wait for remaining time so player can read
+        float remainingTime = duration - typewriterDuration;
+
+        if (remainingTime > 0)
+        {
+            yield return new WaitForSeconds(remainingTime);
         }
     }
 
