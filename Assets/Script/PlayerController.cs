@@ -11,14 +11,22 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     private Animator anim;
     private SpriteRenderer spriteRenderer;
-
+    [Header("Combat Settings")]
+    [SerializeField] private float comboLeeway = 0.8f; 
+    private float lastAttackTime;
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
-
+    private void Update()
+    {
+        if (comboCount > 0 && Time.time - lastAttackTime > comboLeeway)
+        {
+            ResetCombo();
+        }
+    }
     void FixedUpdate()
     {
 
@@ -62,13 +70,24 @@ public class PlayerController : MonoBehaviour
         }
     }
     void OnAttack(InputValue value) 
-    { 
-        if(value.isPressed)
+    {
+        if (value.isPressed)
         {
+            lastAttackTime = Time.time; // Update timer on every click
             comboCount++;
+
+            if (comboCount > 3) comboCount = 1; // Loop back to start if mashing
+
             anim.SetInteger("combo", comboCount);
+            anim.SetTrigger("Attack"); // Trigger ensures Any State fires IMMEDIATELY
+
         }
 
 
+    }
+    void ResetCombo()
+    {
+        comboCount = 0;
+        anim.SetInteger("combo", 0);
     }
 }
