@@ -13,7 +13,7 @@ public class PlayerController : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     [Header("Combat Settings")]
     [SerializeField] private float comboLeeway = 0.8f; 
-    private float lastAttackTime;
+   // private float lastAttackTime;
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -22,10 +22,10 @@ public class PlayerController : MonoBehaviour
     }
     private void Update()
     {
-        if (comboCount > 0 && Time.time - lastAttackTime > comboLeeway)
-        {
-            ResetCombo();
-        }
+        //if (comboCount > 0 && Time.time - lastAttackTime > comboLeeway)
+        //{
+        //    ResetCombo();
+        //}
     }
     void FixedUpdate()
     {
@@ -62,23 +62,31 @@ public class PlayerController : MonoBehaviour
     }
     void OnJump(InputValue value)
     {
-        if(value.isPressed)
+        if(value.isPressed&&anim.GetBool("isGrounded"))
         {
             Debug.Log("Jump Pressed");
-            rb.linearVelocity= new Vector2(rb.linearVelocity.x, 10f);
+            rb.linearVelocity= new Vector2(rb.linearVelocity.x, 5f);
             anim.SetBool("isGrounded", false);
+        }
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            anim.SetBool("isGrounded", true);
         }
     }
     void OnAttack(InputValue value) 
     {
         if (value.isPressed)
         {
-            lastAttackTime = Time.time; // Update timer on every click
-            comboCount++;
+            //lastAttackTime = Time.time; // Update timer on every click
+            //comboCount++;
 
-            if (comboCount > 3) comboCount = 1; // Loop back to start if mashing
+            //if (comboCount > 3) comboCount = 1; // Loop back to start if mashing
 
-            anim.SetInteger("combo", comboCount);
+            //anim.SetInteger("combo", comboCount);
+            Debug.Log("attack press");
             anim.SetTrigger("Attack"); // Trigger ensures Any State fires IMMEDIATELY
 
         }
